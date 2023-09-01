@@ -19,7 +19,7 @@
     "footer_border": "{{ shop.brand.colors.primary[0].background }}",
     "footer_text": "{{ shop.brand.colors.primary[0].background }}",
     "footer_link": "{{ shop.brand.colors.primary[0].background }}",
-    "type_heading_font": "cardo_n4",
+    "type_heading_font": "avenir_next_n4",
     "type_heading_size": 115,
     "type_base_font": "avenir_next_n4",
     "type_body_size": 100,
