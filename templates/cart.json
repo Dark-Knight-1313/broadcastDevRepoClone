@@ -2,17 +2,6 @@
   "sections": {
     "main": {
       "type": "cart",
-      "blocks": {
-        "44f5cd42-096c-452e-9450-58aa13621281": {
-          "type": "shopify:\/\/apps\/buunto-date-picker\/blocks\/app-block-cart\/c25d727a-3911-41c0-b858-6dd551b40d5b",
-          "settings": {
-            "disableSubmitButton": true
-          }
-        }
-      },
-      "block_order": [
-        "44f5cd42-096c-452e-9450-58aa13621281"
-      ],
       "settings": {
         "padding_top": 80,
         "padding_bottom": 50
