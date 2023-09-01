@@ -86,12 +86,6 @@
 
     ],
     "blocks": {
-      "15338665138126300927": {
-        "type": "shopify:\/\/apps\/easy-calendar\/blocks\/thanhbt-easy-calendar\/632e4e2f-ccf6-436d-8058-de032c86f1f5",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "13293358103573487045": {
         "type": "shopify:\/\/apps\/buunto-date-picker\/blocks\/app-embed\/c25d727a-3911-41c0-b858-6dd551b40d5b",
         "disabled": false,
