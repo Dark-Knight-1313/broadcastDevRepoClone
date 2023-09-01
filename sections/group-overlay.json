@@ -5,13 +5,6 @@
     "popups": {
       "type": "popups",
       "blocks": {
-        "popups-0": {
-          "type": "cookie",
-          "settings": {
-            "position": "popup-cookies--left",
-            "show_cookies_popup": true
-          }
-        },
         "51c55543-5b5f-4060-956f-df0fa7266ff4": {
           "type": "popup",
           "settings": {
@@ -37,11 +30,18 @@
             "target_device_enabled": false,
             "target_device": "mobile"
           }
+        },
+        "popups-0": {
+          "type": "cookie",
+          "settings": {
+            "position": "popup-cookies--left",
+            "show_cookies_popup": true
+          }
         }
       },
       "block_order": [
-        "popups-0",
-        "51c55543-5b5f-4060-956f-df0fa7266ff4"
+        "51c55543-5b5f-4060-956f-df0fa7266ff4",
+        "popups-0"
       ],
       "settings": {
       }
