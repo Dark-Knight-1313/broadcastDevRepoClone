@@ -65,7 +65,7 @@
     "enable_order_notes": true,
     "enable_estimate_shipping": false,
     "enable_additional_buttons": false,
-    "show_view_cart_button": true,
+    "show_view_cart_button": false,
     "show_lock_icon": false,
     "show_empty_cart_menu": false,
     "enable_accept_terms": false,
