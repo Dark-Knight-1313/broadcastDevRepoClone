@@ -67,7 +67,7 @@
     "enable_additional_buttons": false,
     "show_view_cart_button": true,
     "show_lock_icon": false,
-    "show_empty_cart_menu": false,
+    "show_empty_cart_menu": true,
     "enable_accept_terms": false,
     "link_hover_color": "#063246",
     "header_link_hover": "#000000",
