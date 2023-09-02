@@ -18,6 +18,55 @@
         "padding_bottom": 50
       }
     },
+    "b0c007a6-d513-4203-a2de-17224f6032a1": {
+      "type": "section-double",
+      "blocks": {
+        "template--20853881274685__b0c007a6-d513-4203-a2de-17224f6032a1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "text_size": 8
+          }
+        },
+        "template--20853881274685__b0c007a6-d513-4203-a2de-17224f6032a1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "template--20853881274685__b0c007a6-d513-4203-a2de-17224f6032a1-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20853881274685__b0c007a6-d513-4203-a2de-17224f6032a1-heading-1",
+        "template--20853881274685__b0c007a6-d513-4203-a2de-17224f6032a1-text-1",
+        "template--20853881274685__b0c007a6-d513-4203-a2de-17224f6032a1-buttons-1"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/shipping-usmaplrn-09022023.gif",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "bcc6940d-0e72-419d-8789-f8a3df8aa5d7": {
       "type": "section-hero",
       "blocks": {
@@ -144,44 +193,15 @@
         "padding_top": 10,
         "padding_bottom": 0
       }
-    },
-    "announcement": {
-      "type": "section-announcement",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Make an announcement<\/strong> | More info<\/p>",
-            "color": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "layout": "marquee",
-        "slider_speed": 7,
-        "text_alignment": "center",
-        "marquee_speed": 100,
-        "direction": "ticker-rtl",
-        "text_size": 2,
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "main",
+    "b0c007a6-d513-4203-a2de-17224f6032a1",
     "bcc6940d-0e72-419d-8789-f8a3df8aa5d7",
     "divider",
     "3ef8dd66-c3c5-45ce-868c-5114595cf61b",
     "2b5f5bb4-0f3a-4e58-9b1c-fee4aa6b7797",
-    "bedd03ed-6c9f-4c7b-9af2-7c46af4b94d4",
-    "announcement"
+    "bedd03ed-6c9f-4c7b-9af2-7c46af4b94d4"
   ]
 }
