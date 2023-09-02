@@ -18,6 +18,46 @@
         "padding_bottom": 50
       }
     },
+    "bcc6940d-0e72-419d-8789-f8a3df8aa5d7": {
+      "type": "section-hero",
+      "blocks": {
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Shipping",
+            "heading_size": 11
+          }
+        }
+      },
+      "block_order": [
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-heading-1"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/shipping-usmaplrn-09022023.gif",
+        "link": "",
+        "mobile_height": "image-height--mobile",
+        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
+    },
+    "divider": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 31,
+        "padding_bottom": 50
+      }
+    },
     "double-1": {
       "type": "section-double",
       "blocks": {
@@ -55,111 +95,6 @@
         "padding_bottom": 50
       }
     },
-    "columns": {
-      "type": "section-columns",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "title": "Add a title or tagline",
-            "heading_size": 4,
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "title": "Add a title or tagline",
-            "heading_size": 4,
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "title": "Add a title or tagline",
-            "heading_size": 4,
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2",
-        "image-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": 5,
-        "align_text": "text-center",
-        "align_columns": "flex-align-top",
-        "width": "wrapper--full-padded",
-        "image_aspect_ratio": 0.7,
-        "mobile_image_aspect_ratio": 0.7,
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "layout_mobile": "carousel"
-      }
-    },
-    "double-2": {
-      "type": "section-double",
-      "blocks": {
-        "heading-2-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text",
-            "text_size": 7
-          }
-        },
-        "text-2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "text_size": 3,
-            "text_style": "font-body"
-          }
-        }
-      },
-      "block_order": [
-        "heading-2-1",
-        "text-2-1"
-      ],
-      "settings": {
-        "layout": "",
-        "height": "sixty-fifty-height-hero",
-        "mobile_height": "four-fifty-height-hero--mobile",
-        "width": "wrapper--full",
-        "image_width": "one-half",
-        "text_alignment": "text-left",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
     "announcement": {
       "type": "section-announcement",
       "blocks": {
@@ -188,185 +123,13 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "collections-list": {
-      "type": "section-collections-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3",
-        "collection-4"
-      ],
-      "settings": {
-        "title": "",
-        "description": "",
-        "layout": "grid",
-        "aspect_ratio": 1.2,
-        "grid": 4,
-        "layout_mobile": "slider",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 32
-      }
-    },
-    "press-logos": {
-      "type": "section-press-logos",
-      "blocks": {
-        "logo-item-1": {
-          "type": "logo-item",
-          "settings": {
-            "logo_width": 150,
-            "link": "",
-            "description": "<p>Include a brief quote from a brand that loves your products<\/p>",
-            "heading_size": 6
-          }
-        },
-        "logo-item-2": {
-          "type": "logo-item",
-          "settings": {
-            "logo_width": 150,
-            "link": "",
-            "description": "<p>Include a brief quote from a brand that loves your products<\/p>",
-            "heading_size": 6
-          }
-        },
-        "logo-item-3": {
-          "type": "logo-item",
-          "settings": {
-            "logo_width": 150,
-            "link": "",
-            "description": "<p>Include a brief quote from a brand that loves your products<\/p>",
-            "heading_size": 6
-          }
-        },
-        "logo-item-4": {
-          "type": "logo-item",
-          "settings": {
-            "logo_width": 150,
-            "link": "",
-            "description": "<p>Include a brief quote from a brand that loves your products<\/p>",
-            "heading_size": 6
-          }
-        }
-      },
-      "block_order": [
-        "logo-item-1",
-        "logo-item-2",
-        "logo-item-3",
-        "logo-item-4"
-      ],
-      "settings": {
-        "title": "As seen in",
-        "enable_heading_slider": false,
-        "text_style": "font-body",
-        "logo_opacity": 60,
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
-    "divider": {
-      "type": "section-divider",
-      "settings": {
-        "show_line": true,
-        "width": "wrapper--full-padded",
-        "border_color": "",
-        "bg_color": "",
-        "padding_top": 31,
-        "padding_bottom": 50
-      }
-    },
-    "bcc6940d-0e72-419d-8789-f8a3df8aa5d7": {
-      "type": "section-hero",
-      "blocks": {
-        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Shipping",
-            "heading_size": 11
-          }
-        },
-        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-text-1": {
-          "type": "text",
-          "settings": {
-            "description": "Tell your brand's story through images.",
-            "text_size": 5,
-            "text_style": "font-body"
-          }
-        },
-        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-button-1": {
-          "type": "button",
-          "settings": {
-            "link_text": "View products",
-            "link": "",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-heading-1",
-        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-text-1",
-        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-button-1"
-      ],
-      "settings": {
-        "height": "screen-height-three-quarters",
-        "width": "wrapper--full",
-        "link": "",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_desktop": "align--middle-center-desktop",
-        "flex_align_mobile": "align--middle-center-mobile",
-        "overlay_opacity": 0,
-        "overlay_color": "#000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#FFFFFF"
-      }
     }
   },
   "order": [
     "main",
-    "double-1",
-    "columns",
-    "double-2",
-    "announcement",
-    "collections-list",
-    "press-logos",
+    "bcc6940d-0e72-419d-8789-f8a3df8aa5d7",
     "divider",
-    "bcc6940d-0e72-419d-8789-f8a3df8aa5d7"
+    "double-1",
+    "announcement"
   ]
 }
