@@ -63,7 +63,7 @@
     "favicon": "shopify:\/\/shop_images\/Crab_Place_Logo-vertical-rgb-fullcolor.png",
     "enable_cart_dropdown": false,
     "enable_order_notes": true,
-    "enable_estimate_shipping": true,
+    "enable_estimate_shipping": false,
     "enable_additional_buttons": false,
     "show_view_cart_button": true,
     "show_lock_icon": false,

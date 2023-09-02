@@ -31,8 +31,8 @@
         "text-1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "text_size": 3,
+            "text": "<p><strong>National, Regional, and Local<\/strong><\/p><p>We try as hard as we can to reduce shipping costs for our customers. We offer discounted weekday shipping to some parts of the United States. <\/p><p>To see if your order qualifies for discounted shipping, <strong>complete the Estimated Shipping section<\/strong> in your cart before you checkout.<\/p>",
+            "text_size": 5,
             "text_style": "font-body"
           }
         }
@@ -46,6 +46,7 @@
         "height": "sixty-fifty-height-hero",
         "mobile_height": "four-fifty-height-hero--mobile",
         "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/shipping-usmaplrn-09022023.gif",
         "image_width": "one-half",
         "text_alignment": "text-left",
         "bg_color": "rgba(0,0,0,0)",
@@ -306,6 +307,55 @@
         "padding_top": 31,
         "padding_bottom": 50
       }
+    },
+    "bcc6940d-0e72-419d-8789-f8a3df8aa5d7": {
+      "type": "section-hero",
+      "blocks": {
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Shipping",
+            "heading_size": 11
+          }
+        },
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-text-1": {
+          "type": "text",
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-heading-1",
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-text-1",
+        "template--20853881274685__bcc6940d-0e72-419d-8789-f8a3df8aa5d7-button-1"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
     }
   },
   "order": [
@@ -316,6 +366,7 @@
     "announcement",
     "collections-list",
     "press-logos",
-    "divider"
+    "divider",
+    "bcc6940d-0e72-419d-8789-f8a3df8aa5d7"
   ]
 }
