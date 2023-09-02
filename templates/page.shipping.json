@@ -114,15 +114,27 @@
         "fd208189-5848-4f66-9399-efcbd5c25d15": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>National, Regional, and Local<\/strong><\/p><p>We try as hard as we can to reduce shipping costs for our customers. We offer discounted weekday shipping to some parts of the United States. <\/p><p>To see if your order qualifies for discounted shipping, <strong>complete the Estimated Shipping section<\/strong> in your cart before you checkout.<\/p>",
+            "text": "<p><strong>Use the shipping chart below to determine your shipping charges.<\/strong><\/p><p>You are eligible for inclusion in our V.I.P. Club. Pay $69.00 for membership this time, and get free FedEx or UPS ground shipping plus $20 off all Air shipments for the rest of the year. Order as often as you like. Plus you will get exclusive deals and discounts not offered to non-members.<\/p>",
             "text_size": 4,
             "text_style": "font-body"
+          }
+        },
+        "b403b405-433f-458f-bd65-d2551f8ed0f5": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Become a VIP TODAY",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": true
           }
         }
       },
       "block_order": [
         "dc541f4e-d0b2-449f-a1f2-18d09d6f7caf",
-        "fd208189-5848-4f66-9399-efcbd5c25d15"
+        "fd208189-5848-4f66-9399-efcbd5c25d15",
+        "b403b405-433f-458f-bd65-d2551f8ed0f5"
       ],
       "settings": {
         "width": "wrapper",
