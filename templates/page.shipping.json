@@ -41,10 +41,10 @@
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 0,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "divider": {
@@ -58,41 +58,79 @@
         "padding_bottom": 50
       }
     },
-    "double-1": {
-      "type": "section-double",
+    "3ef8dd66-c3c5-45ce-868c-5114595cf61b": {
+      "type": "section-rich-text",
       "blocks": {
-        "heading-1-1": {
+        "template--20853881274685__3ef8dd66-c3c5-45ce-868c-5114595cf61b-heading-1": {
           "type": "heading",
           "settings": {
             "title": "Shipping",
-            "text_size": 7
+            "text_size": 8
           }
         },
-        "text-1-1": {
+        "template--20853881274685__3ef8dd66-c3c5-45ce-868c-5114595cf61b-text-1": {
           "type": "text",
           "settings": {
             "text": "<p><strong>National, Regional, and Local<\/strong><\/p><p>We try as hard as we can to reduce shipping costs for our customers. We offer discounted weekday shipping to some parts of the United States. <\/p><p>To see if your order qualifies for discounted shipping, <strong>complete the Estimated Shipping section<\/strong> in your cart before you checkout.<\/p>",
-            "text_size": 5,
+            "text_size": 4,
             "text_style": "font-body"
           }
         }
       },
       "block_order": [
-        "heading-1-1",
-        "text-1-1"
+        "template--20853881274685__3ef8dd66-c3c5-45ce-868c-5114595cf61b-heading-1",
+        "template--20853881274685__3ef8dd66-c3c5-45ce-868c-5114595cf61b-text-1"
       ],
       "settings": {
-        "layout": "is-reversed",
-        "height": "sixty-fifty-height-hero",
-        "mobile_height": "four-fifty-height-hero--mobile",
-        "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/shipping-usmaplrn-09022023.gif",
-        "image_width": "one-half",
-        "text_alignment": "text-left",
-        "bg_color": "rgba(0,0,0,0)",
+        "width": "wrapper",
+        "align_text": "text-left",
+        "bg_color": "",
         "color": "",
         "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2b5f5bb4-0f3a-4e58-9b1c-fee4aa6b7797": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 31,
         "padding_bottom": 50
+      }
+    },
+    "bedd03ed-6c9f-4c7b-9af2-7c46af4b94d4": {
+      "type": "section-rich-text",
+      "blocks": {
+        "dc541f4e-d0b2-449f-a1f2-18d09d6f7caf": {
+          "type": "heading",
+          "settings": {
+            "title": "Shipping Chart",
+            "text_size": 8
+          }
+        },
+        "fd208189-5848-4f66-9399-efcbd5c25d15": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>National, Regional, and Local<\/strong><\/p><p>We try as hard as we can to reduce shipping costs for our customers. We offer discounted weekday shipping to some parts of the United States. <\/p><p>To see if your order qualifies for discounted shipping, <strong>complete the Estimated Shipping section<\/strong> in your cart before you checkout.<\/p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        }
+      },
+      "block_order": [
+        "dc541f4e-d0b2-449f-a1f2-18d09d6f7caf",
+        "fd208189-5848-4f66-9399-efcbd5c25d15"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 10,
+        "padding_bottom": 0
       }
     },
     "announcement": {
@@ -129,7 +167,9 @@
     "main",
     "bcc6940d-0e72-419d-8789-f8a3df8aa5d7",
     "divider",
-    "double-1",
+    "3ef8dd66-c3c5-45ce-868c-5114595cf61b",
+    "2b5f5bb4-0f3a-4e58-9b1c-fee4aa6b7797",
+    "bedd03ed-6c9f-4c7b-9af2-7c46af4b94d4",
     "announcement"
   ]
 }
