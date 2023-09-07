@@ -32,7 +32,7 @@
           "settings": {
             "show_notice": "low-inventory",
             "max_inventory": 5,
-            "hide_inventory_counter": true,
+            "hide_inventory_counter": false,
             "padding_bottom": 16
           }
         },
