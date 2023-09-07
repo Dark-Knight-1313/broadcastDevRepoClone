@@ -53,7 +53,7 @@
     "sale_text_color": "{{ shop.brand.colors.secondary[0].foreground }}",
     "badge_bg_color": "#ffffff",
     "badge_text_color": "{{ shop.brand.colors.primary[0].background }}",
-    "quickview_enable": false,
+    "quickview_enable": true,
     "show_siblings": false,
     "show_cutline": true,
     "product_grid_show_rating": true,
@@ -91,12 +91,6 @@
     "blocks": {
       "13293358103573487045": {
         "type": "shopify:\/\/apps\/buunto-date-picker\/blocks\/app-embed\/c25d727a-3911-41c0-b858-6dd551b40d5b",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "17442089763355273418": {
-        "type": "shopify:\/\/apps\/vify-professional-gift-cards\/blocks\/gift-card-issue\/43d9e0cc-139a-4d15-b0b8-63f2863afb32",
         "disabled": false,
         "settings": {
         }
