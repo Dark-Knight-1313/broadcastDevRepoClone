@@ -48,7 +48,7 @@
           "disabled": true,
           "settings": {
             "show_notice": "low-inventory",
-            "max_inventory": 10,
+            "max_inventory": 5,
             "hide_inventory_counter": true,
             "padding_bottom": 16
           }
