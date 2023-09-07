@@ -27,6 +27,15 @@
             "padding_bottom": 16
           }
         },
+        "b59cd27e-9397-4f59-94da-a60ef43789f0": {
+          "type": "inventory_countdown",
+          "settings": {
+            "show_notice": "low-inventory",
+            "max_inventory": 5,
+            "hide_inventory_counter": true,
+            "padding_bottom": 16
+          }
+        },
         "buttons": {
           "type": "buttons",
           "settings": {
@@ -41,16 +50,6 @@
           "disabled": true,
           "settings": {
             "padding_bottom": 32
-          }
-        },
-        "b59cd27e-9397-4f59-94da-a60ef43789f0": {
-          "type": "inventory_countdown",
-          "disabled": true,
-          "settings": {
-            "show_notice": "low-inventory",
-            "max_inventory": 5,
-            "hide_inventory_counter": true,
-            "padding_bottom": 16
           }
         },
         "tabs": {
@@ -134,9 +133,9 @@
         "title",
         "price",
         "variants",
+        "b59cd27e-9397-4f59-94da-a60ef43789f0",
         "buttons",
         "pickup",
-        "b59cd27e-9397-4f59-94da-a60ef43789f0",
         "tabs",
         "divider_1",
         "upsell",
