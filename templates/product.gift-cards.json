@@ -31,7 +31,7 @@
           "type": "buttons",
           "settings": {
             "show_quantity": true,
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "padding_bottom": 32
           }
