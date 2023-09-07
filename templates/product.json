@@ -43,6 +43,16 @@
             "padding_bottom": 32
           }
         },
+        "b59cd27e-9397-4f59-94da-a60ef43789f0": {
+          "type": "inventory_countdown",
+          "disabled": true,
+          "settings": {
+            "show_notice": "low-inventory",
+            "max_inventory": 10,
+            "hide_inventory_counter": true,
+            "padding_bottom": 16
+          }
+        },
         "tabs": {
           "type": "tab_richtext",
           "settings": {
@@ -126,6 +136,7 @@
         "variants",
         "buttons",
         "pickup",
+        "b59cd27e-9397-4f59-94da-a60ef43789f0",
         "tabs",
         "divider_1",
         "upsell",
