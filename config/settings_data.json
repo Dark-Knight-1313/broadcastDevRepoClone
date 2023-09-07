@@ -53,7 +53,7 @@
     "sale_text_color": "{{ shop.brand.colors.secondary[0].foreground }}",
     "badge_bg_color": "#ffffff",
     "badge_text_color": "{{ shop.brand.colors.primary[0].background }}",
-    "quickview_enable": true,
+    "quickview_enable": false,
     "show_siblings": false,
     "show_cutline": true,
     "product_grid_show_rating": true,
