@@ -57,7 +57,7 @@
     "show_siblings": false,
     "show_cutline": true,
     "product_grid_show_rating": true,
-    "variant_lines": false,
+    "variant_lines": true,
     "show_gift_card_recipient": true,
     "color_swatches": false,
     "favicon": "shopify:\/\/shop_images\/Crab_Place_Logo-vertical-rgb-fullcolor.png",
