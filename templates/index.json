@@ -1,1 +1,556 @@
-{"sections":{"hero":{"type":"section-hero","settings":{"height":"screen-height-two-thirds","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/homepage_banner-ph_v1_08192023.png","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--middle-left-desktop","flex_align_mobile":"align--middle-left-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff"}},"ee7c83d3-21c6-4fe9-ad86-046ae462e41b":{"type":"section-divider","settings":{"show_line":true,"width":"wrapper","border_color":"{{ shop.brand.colors.primary[0].background }}","bg_color":"","padding_top":50,"padding_bottom":50}},"6bcf0c86-4ce5-470a-ae5d-005de7c8fefe":{"type":"section-rich-text","blocks":{"template--20536404083005__6bcf0c86-4ce5-470a-ae5d-005de7c8fefe-heading-1":{"type":"heading","settings":{"title":"Shop Best Sellers","text_size":8}}},"block_order":["template--20536404083005__6bcf0c86-4ce5-470a-ae5d-005de7c8fefe-heading-1"],"settings":{"width":"wrapper","align_text":"text-center","bg_color":"","color":"","padding_top":0,"padding_bottom":0}},"ea4add14-5a4d-460c-9aa1-2cddf87ce65b":{"type":"section-collection","settings":{"heading":"SHOP BEST SELLERS","description":"","layout":"center","link_text":"","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"featured_collection":"best-sellers","style":"slider","grid":3,"rows":1,"width":"wrapper","layout_mobile":"1","bg_color":"rgba(0,0,0,0)","color":"#ffffff","padding_top":0,"padding_bottom":20}},"4214c987-0964-4b7d-ae4f-53f583b97e06":{"type":"section-divider","settings":{"show_line":true,"width":"wrapper","border_color":"{{ shop.brand.colors.secondary[0].background }}","bg_color":"","padding_top":50,"padding_bottom":50}},"e035784e-f584-4efb-88d9-ae24ffd4a563":{"type":"section-hero","settings":{"height":"screen-height-three-quarters","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/homepage_howitworks_v1_08192023.png","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--middle-center-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":0,"overlay_color":"#000","show_overlay_text":false,"bg_color":"","color":"#FFFFFF"}},"34d09079-419d-4508-b6aa-c2386ae0f58c":{"type":"section-rich-text","blocks":{"569b7ae1-2478-4b64-93c2-f48dc4172978":{"type":"heading","settings":{"title":"Shop Now","text_size":8}}},"block_order":["569b7ae1-2478-4b64-93c2-f48dc4172978"],"settings":{"width":"wrapper","align_text":"text-center","bg_color":"","color":"","padding_top":20,"padding_bottom":30}},"f41adac0-e9ff-4751-a3e1-e34b2b18901d":{"type":"section-text-row","blocks":{"template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-1":{"type":"icon","settings":{"icon_name":"icon-notes","icon_size":55,"icon_color":"{{ shop.brand.colors.primary[0].background }}","title":"Select Your Products & Delivery Date:","heading_size":5,"text":"<p>Choose from our collection of premium Maryland crabs, crab cakes, seafood, and accessories - get it delivered on a date you choose.<\/p>","text_size":3}},"template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-2":{"type":"icon","settings":{"icon_name":"icon-box","icon_size":55,"icon_color":"{{ shop.brand.colors.primary[0].background }}","title":"Catch, Pack, & Ship:","heading_size":5,"text":"<p>On the day your order is scheduled to ship, we catch, prepare and package your order with care in an insulated box.<\/p>","text_size":3}},"ec6da147-956b-49db-bed3-0708706c279c":{"type":"icon","settings":{"icon_name":"icon-fast-shipment","icon_size":55,"icon_color":"{{ shop.brand.colors.primary[0].background }}","title":"We Ship to Your Doorstep:","heading_size":5,"text":"<p>Receive the world's best seafood. Simply unbox, prep and enjoy!<\/p>","text_size":3}}},"block_order":["template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-1","template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-2","ec6da147-956b-49db-bed3-0708706c279c"],"settings":{"title":"","heading_size":5,"align_text":"text-left","icon_alignment":"icon--left","align_columns":"flex-align-top","width":"wrapper--full-padded","bg_color":"","color":"","padding_top":0,"padding_bottom":0,"layout_mobile":"grid"}},"8afcfdb1-d204-44c1-a68a-37e0fc45b8d0":{"type":"section-rich-text","blocks":{"a74f6ea8-61c0-49d4-88ec-ddedc93d7b36":{"type":"buttons","settings":{"button_text":"Shop Now","button_url":"shopify:\/\/collections","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":true}}},"block_order":["a74f6ea8-61c0-49d4-88ec-ddedc93d7b36"],"settings":{"width":"wrapper","align_text":"text-center","bg_color":"","color":"","padding_top":20,"padding_bottom":30}},"2eb65f70-c5f7-4859-b013-fcc50412b6c9":{"type":"section-collections-list","blocks":{"template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-1":{"type":"collection","settings":{"collection":"fresh","collection_image":"shopify:\/\/shop_images\/shop-mm_frozen_allproducts_v1_08132023.jpg","title":""}},"template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-2":{"type":"collection","settings":{"collection":"frozen","collection_image":"shopify:\/\/shop_images\/community_recipes_jumbocrabs_v1_08192023.jpg","title":""}},"template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-3":{"type":"collection","settings":{"collection":"accessories","title":""}}},"block_order":["template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-1","template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-2","template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-3"],"disabled":true,"settings":{"title":"","description":"","layout":"grid","aspect_ratio":1,"grid":3,"layout_mobile":"slider","bg_color":"","color":"","padding_top":32,"padding_bottom":32}},"13acf598-cb80-4436-b1b4-746570733cc7":{"type":"section-collections-list-hover","blocks":{"template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-1":{"type":"collection","settings":{"collection":"fresh","image":"shopify:\/\/shop_images\/community_recipes_hardcrabs_v1_08192023.jpg","title":""}},"template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-2":{"type":"collection","settings":{"collection":"frozen","image":"shopify:\/\/shop_images\/sbox-mm_frozen_cbox_v1_08172023.jpg","title":""}},"348f720e-1592-4e25-8dc5-ff2c712a6da7":{"type":"collection","settings":{"collection":"accessories","title":""}}},"block_order":["template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-1","template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-2","348f720e-1592-4e25-8dc5-ff2c712a6da7"],"disabled":true,"settings":{"height":"screen-height-one-third","mobile_height":"screen-height-three-quarters--mobile","overlay_opacity":20,"overlay_color":"#000","show_overlay_text":false,"heading_size":7,"bg_color":"","color":"#ffffff","padding_top":0,"padding_bottom":0}},"45638bad-f910-488e-b796-2ca4474262f8":{"type":"section-divider","settings":{"show_line":true,"width":"wrapper","border_color":"{{ shop.brand.colors.secondary[0].background }}","bg_color":"","padding_top":50,"padding_bottom":50}},"af260632-1f8b-42d1-9b80-7769a65f61f0":{"type":"section-rich-text","blocks":{"6456c2b6-b6dc-4270-a62e-c73191ad25fc":{"type":"heading","settings":{"title":"Subscription Box","text_size":8}}},"block_order":["6456c2b6-b6dc-4270-a62e-c73191ad25fc"],"settings":{"width":"wrapper","align_text":"text-center","bg_color":"","color":"","padding_top":20,"padding_bottom":30}},"a47f331e-79da-424c-a8b4-b97d5c8dbdd4":{"type":"section-text-row","blocks":{"4e4abb98-6703-46a2-8bca-6ddc543e32e0":{"type":"icon","settings":{"icon_name":"icon-notes","icon_size":55,"icon_color":"{{ shop.brand.colors.secondary[0].background }}","title":"Select or Customize a Box with Items You Love:","heading_size":5,"text":"<p>Choose your price tier and stock your freezer monthly!<\/p>","text_size":3}},"a0080535-1069-4ff5-8a53-b4ad151f44fd":{"type":"icon","settings":{"icon_name":"icon-box","icon_size":55,"icon_color":"{{ shop.brand.colors.secondary[0].background }}","title":"Catch, Pack & Ship:","heading_size":5,"text":"<p>We catch, prepare and package your order with care, in an insulated box.<\/p>","text_size":3}},"9161d2e7-6aa0-4bf6-a2fa-8c668f1c1162":{"type":"icon","settings":{"icon_name":"icon-fast-shipment","icon_size":55,"icon_color":"{{ shop.brand.colors.secondary[0].background }}","title":"We Ship to Your Doorstep:","heading_size":5,"text":"<p>Fill your freezer with the world's best seafood!<\/p>","text_size":3}}},"block_order":["4e4abb98-6703-46a2-8bca-6ddc543e32e0","a0080535-1069-4ff5-8a53-b4ad151f44fd","9161d2e7-6aa0-4bf6-a2fa-8c668f1c1162"],"settings":{"title":"","heading_size":5,"align_text":"text-left","icon_alignment":"icon--left","align_columns":"flex-align-top","width":"wrapper--full-padded","bg_color":"","color":"","padding_top":0,"padding_bottom":0,"layout_mobile":"grid"}},"c7c54487-7716-4a74-b3e8-c20c9c8ab698":{"type":"section-rich-text","blocks":{"202a8fed-4e50-4830-b6f0-d4a79c63f4df":{"type":"buttons","settings":{"button_text":"Subscribe","button_url":"#","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":true}}},"block_order":["202a8fed-4e50-4830-b6f0-d4a79c63f4df"],"settings":{"width":"wrapper","align_text":"text-center","bg_color":"","color":"","padding_top":20,"padding_bottom":30}},"d9649420-8452-4488-88e1-df32dc915c49":{"type":"section-divider","settings":{"show_line":true,"width":"wrapper","border_color":"{{ shop.brand.colors.primary[0].background }}","bg_color":"","padding_top":50,"padding_bottom":50}},"588f150d-1fda-4589-8c32-b1e9f00afa13":{"type":"section-hero","settings":{"height":"screen-height-two-thirds","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/homepage_vipmember-ph_v1_08192023.png","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--middle-left-desktop","flex_align_mobile":"align--middle-left-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff"}},"5c1a7d7c-cb5e-4d36-9d2a-20928c702357":{"type":"section-hero","settings":{"height":"screen-height-two-thirds","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/homepage_ourinfo-ph_v1_08192023.png","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--middle-left-desktop","flex_align_mobile":"align--middle-left-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff"}},"e000496f-dcb2-4462-9dec-755172870e65":{"type":"section-hero","settings":{"height":"screen-height-two-thirds","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/homepage_community-ph_v1_08192023.png","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--middle-left-desktop","flex_align_mobile":"align--middle-left-mobile","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff"}},"816decec-7aaa-489e-85fd-a1babbcfe410":{"type":"section-look","blocks":{"template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-1":{"type":"product","settings":{"product":"king-crab-legs-huge","position_x":14,"position_y":37}},"template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-2":{"type":"product","settings":{"product":"crawfish-cooked-frozen","position_x":45,"position_y":60}},"00ac4be5-b45b-4b4c-8f1b-c8b86efcb69a":{"type":"product","settings":{"product":"clams-little-neck","position_x":50,"position_y":50}}},"block_order":["template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-1","template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-2","00ac4be5-b45b-4b4c-8f1b-c8b86efcb69a"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/aboutus-mm_recipes_allrecipes_v1_08132023.jpg","title":"Shop the look","show_dots":true,"products_per_row":"1","enable_aspect_ratio":true,"image_aspect_ratio":1,"button_type":"btn--white","button_size":"","button_style":"btn--outline","show_arrow":false,"bg_color":"","color":"","dot_color":"","dot_background":"","padding_top":0,"padding_bottom":0}}},"order":["hero","ee7c83d3-21c6-4fe9-ad86-046ae462e41b","6bcf0c86-4ce5-470a-ae5d-005de7c8fefe","ea4add14-5a4d-460c-9aa1-2cddf87ce65b","4214c987-0964-4b7d-ae4f-53f583b97e06","e035784e-f584-4efb-88d9-ae24ffd4a563","34d09079-419d-4508-b6aa-c2386ae0f58c","f41adac0-e9ff-4751-a3e1-e34b2b18901d","8afcfdb1-d204-44c1-a68a-37e0fc45b8d0","2eb65f70-c5f7-4859-b013-fcc50412b6c9","13acf598-cb80-4436-b1b4-746570733cc7","45638bad-f910-488e-b796-2ca4474262f8","af260632-1f8b-42d1-9b80-7769a65f61f0","a47f331e-79da-424c-a8b4-b97d5c8dbdd4","c7c54487-7716-4a74-b3e8-c20c9c8ab698","d9649420-8452-4488-88e1-df32dc915c49","588f150d-1fda-4589-8c32-b1e9f00afa13","5c1a7d7c-cb5e-4d36-9d2a-20928c702357","e000496f-dcb2-4462-9dec-755172870e65","816decec-7aaa-489e-85fd-a1babbcfe410"]}
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_banner-ph_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "flex_align_mobile": "align--middle-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "ee7c83d3-21c6-4fe9-ad86-046ae462e41b": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "{{ shop.brand.colors.primary[0].background }}",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "6bcf0c86-4ce5-470a-ae5d-005de7c8fefe": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--20536404083005__6bcf0c86-4ce5-470a-ae5d-005de7c8fefe-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Shop Best Sellers",
+            "text_size": 8
+          }
+        }
+      },
+      "block_order": [
+        "template--20536404083005__6bcf0c86-4ce5-470a-ae5d-005de7c8fefe-heading-1"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ea4add14-5a4d-460c-9aa1-2cddf87ce65b": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "SHOP BEST SELLERS",
+        "description": "",
+        "layout": "center",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "best-sellers",
+        "style": "slider",
+        "grid": 3,
+        "rows": 1,
+        "width": "wrapper",
+        "layout_mobile": "1",
+        "bg_color": "rgba(0,0,0,0)",
+        "color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "4214c987-0964-4b7d-ae4f-53f583b97e06": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "{{ shop.brand.colors.secondary[0].background }}",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "e035784e-f584-4efb-88d9-ae24ffd4a563": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_howitworks_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "34d09079-419d-4508-b6aa-c2386ae0f58c": {
+      "type": "section-rich-text",
+      "blocks": {
+        "569b7ae1-2478-4b64-93c2-f48dc4172978": {
+          "type": "heading",
+          "settings": {
+            "title": "Shop Now",
+            "text_size": 8
+          }
+        }
+      },
+      "block_order": [
+        "569b7ae1-2478-4b64-93c2-f48dc4172978"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 30
+      }
+    },
+    "f41adac0-e9ff-4751-a3e1-e34b2b18901d": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-notes",
+            "icon_size": 55,
+            "icon_color": "{{ shop.brand.colors.primary[0].background }}",
+            "title": "Select Your Products & Delivery Date:",
+            "heading_size": 5,
+            "text": "<p>Choose from our collection of premium Maryland crabs, crab cakes, seafood, and accessories - get it delivered on a date you choose.<\/p>",
+            "text_size": 3
+          }
+        },
+        "template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-box",
+            "icon_size": 55,
+            "icon_color": "{{ shop.brand.colors.primary[0].background }}",
+            "title": "Catch, Pack, & Ship:",
+            "heading_size": 5,
+            "text": "<p>On the day your order is scheduled to ship, we catch, prepare and package your order with care in an insulated box.<\/p>",
+            "text_size": 3
+          }
+        },
+        "ec6da147-956b-49db-bed3-0708706c279c": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-fast-shipment",
+            "icon_size": 55,
+            "icon_color": "{{ shop.brand.colors.primary[0].background }}",
+            "title": "We Ship to Your Doorstep:",
+            "heading_size": 5,
+            "text": "<p>Receive the world's best seafood. Simply unbox, prep and enjoy!<\/p>",
+            "text_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-1",
+        "template--20536404083005__f41adac0-e9ff-4751-a3e1-e34b2b18901d-icon-2",
+        "ec6da147-956b-49db-bed3-0708706c279c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "layout_mobile": "grid"
+      }
+    },
+    "8afcfdb1-d204-44c1-a68a-37e0fc45b8d0": {
+      "type": "section-rich-text",
+      "blocks": {
+        "a74f6ea8-61c0-49d4-88ec-ddedc93d7b36": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_url": "shopify:\/\/collections",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "a74f6ea8-61c0-49d4-88ec-ddedc93d7b36"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 30
+      }
+    },
+    "2eb65f70-c5f7-4859-b013-fcc50412b6c9": {
+      "type": "section-collections-list",
+      "blocks": {
+        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "fresh",
+            "collection_image": "shopify:\/\/shop_images\/shop-mm_frozen_allproducts_v1_08132023.jpg",
+            "title": ""
+          }
+        },
+        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "frozen",
+            "collection_image": "shopify:\/\/shop_images\/community_recipes_jumbocrabs_v1_08192023.jpg",
+            "title": ""
+          }
+        },
+        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-1",
+        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-2",
+        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "description": "",
+        "layout": "grid",
+        "aspect_ratio": 1,
+        "grid": 3,
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "13acf598-cb80-4436-b1b4-746570733cc7": {
+      "type": "section-collections-list-hover",
+      "blocks": {
+        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "fresh",
+            "image": "shopify:\/\/shop_images\/community_recipes_hardcrabs_v1_08192023.jpg",
+            "title": ""
+          }
+        },
+        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "frozen",
+            "image": "shopify:\/\/shop_images\/sbox-mm_frozen_cbox_v1_08172023.jpg",
+            "title": ""
+          }
+        },
+        "348f720e-1592-4e25-8dc5-ff2c712a6da7": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-1",
+        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-2",
+        "348f720e-1592-4e25-8dc5-ff2c712a6da7"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "screen-height-one-third",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "overlay_opacity": 20,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "heading_size": 7,
+        "bg_color": "",
+        "color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "45638bad-f910-488e-b796-2ca4474262f8": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "{{ shop.brand.colors.secondary[0].background }}",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "af260632-1f8b-42d1-9b80-7769a65f61f0": {
+      "type": "section-rich-text",
+      "blocks": {
+        "6456c2b6-b6dc-4270-a62e-c73191ad25fc": {
+          "type": "heading",
+          "settings": {
+            "title": "Subscription Box",
+            "text_size": 8
+          }
+        }
+      },
+      "block_order": [
+        "6456c2b6-b6dc-4270-a62e-c73191ad25fc"
+      ],
+      "disabled": true,
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 30
+      }
+    },
+    "a47f331e-79da-424c-a8b4-b97d5c8dbdd4": {
+      "type": "section-text-row",
+      "blocks": {
+        "4e4abb98-6703-46a2-8bca-6ddc543e32e0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-notes",
+            "icon_size": 55,
+            "icon_color": "{{ shop.brand.colors.secondary[0].background }}",
+            "title": "Select or Customize a Box with Items You Love:",
+            "heading_size": 5,
+            "text": "<p>Choose your price tier and stock your freezer monthly!<\/p>",
+            "text_size": 3
+          }
+        },
+        "a0080535-1069-4ff5-8a53-b4ad151f44fd": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-box",
+            "icon_size": 55,
+            "icon_color": "{{ shop.brand.colors.secondary[0].background }}",
+            "title": "Catch, Pack & Ship:",
+            "heading_size": 5,
+            "text": "<p>We catch, prepare and package your order with care, in an insulated box.<\/p>",
+            "text_size": 3
+          }
+        },
+        "9161d2e7-6aa0-4bf6-a2fa-8c668f1c1162": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-fast-shipment",
+            "icon_size": 55,
+            "icon_color": "{{ shop.brand.colors.secondary[0].background }}",
+            "title": "We Ship to Your Doorstep:",
+            "heading_size": 5,
+            "text": "<p>Fill your freezer with the world's best seafood!<\/p>",
+            "text_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "4e4abb98-6703-46a2-8bca-6ddc543e32e0",
+        "a0080535-1069-4ff5-8a53-b4ad151f44fd",
+        "9161d2e7-6aa0-4bf6-a2fa-8c668f1c1162"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "layout_mobile": "grid"
+      }
+    },
+    "c7c54487-7716-4a74-b3e8-c20c9c8ab698": {
+      "type": "section-rich-text",
+      "blocks": {
+        "202a8fed-4e50-4830-b6f0-d4a79c63f4df": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Subscribe",
+            "button_url": "#",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "202a8fed-4e50-4830-b6f0-d4a79c63f4df"
+      ],
+      "disabled": true,
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 30
+      }
+    },
+    "588f150d-1fda-4589-8c32-b1e9f00afa13": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_vipmember-ph_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "flex_align_mobile": "align--middle-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "5c1a7d7c-cb5e-4d36-9d2a-20928c702357": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_ourinfo-ph_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "flex_align_mobile": "align--middle-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "e000496f-dcb2-4462-9dec-755172870e65": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_community-ph_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "flex_align_mobile": "align--middle-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "816decec-7aaa-489e-85fd-a1babbcfe410": {
+      "type": "section-look",
+      "blocks": {
+        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "king-crab-legs-huge",
+            "position_x": 14,
+            "position_y": 37
+          }
+        },
+        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-2": {
+          "type": "product",
+          "settings": {
+            "product": "crawfish-cooked-frozen",
+            "position_x": 45,
+            "position_y": 60
+          }
+        },
+        "00ac4be5-b45b-4b4c-8f1b-c8b86efcb69a": {
+          "type": "product",
+          "settings": {
+            "product": "clams-little-neck",
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-1",
+        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-2",
+        "00ac4be5-b45b-4b4c-8f1b-c8b86efcb69a"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aboutus-mm_recipes_allrecipes_v1_08132023.jpg",
+        "title": "Shop the look",
+        "show_dots": true,
+        "products_per_row": "1",
+        "enable_aspect_ratio": true,
+        "image_aspect_ratio": 1,
+        "button_type": "btn--white",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "bg_color": "",
+        "color": "",
+        "dot_color": "",
+        "dot_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "ee7c83d3-21c6-4fe9-ad86-046ae462e41b",
+    "6bcf0c86-4ce5-470a-ae5d-005de7c8fefe",
+    "ea4add14-5a4d-460c-9aa1-2cddf87ce65b",
+    "4214c987-0964-4b7d-ae4f-53f583b97e06",
+    "e035784e-f584-4efb-88d9-ae24ffd4a563",
+    "34d09079-419d-4508-b6aa-c2386ae0f58c",
+    "f41adac0-e9ff-4751-a3e1-e34b2b18901d",
+    "8afcfdb1-d204-44c1-a68a-37e0fc45b8d0",
+    "2eb65f70-c5f7-4859-b013-fcc50412b6c9",
+    "13acf598-cb80-4436-b1b4-746570733cc7",
+    "45638bad-f910-488e-b796-2ca4474262f8",
+    "af260632-1f8b-42d1-9b80-7769a65f61f0",
+    "a47f331e-79da-424c-a8b4-b97d5c8dbdd4",
+    "c7c54487-7716-4a74-b3e8-c20c9c8ab698",
+    "588f150d-1fda-4589-8c32-b1e9f00afa13",
+    "5c1a7d7c-cb5e-4d36-9d2a-20928c702357",
+    "e000496f-dcb2-4462-9dec-755172870e65",
+    "816decec-7aaa-489e-85fd-a1babbcfe410"
+  ]
+}
