@@ -141,6 +141,7 @@
       "blocks": {
         "c14111eb-6c13-477f-9e34-4a6b6b64168e": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Get The Freshest Seafood To Your Door - <strong>ORDER A SUBSCRIPTION BOX NOW &gt;<\/strong><\/p>",
             "target_url_enabled": false,
@@ -155,6 +156,7 @@
       "block_order": [
         "c14111eb-6c13-477f-9e34-4a6b6b64168e"
       ],
+      "disabled": true,
       "settings": {
         "layout": "slider",
         "slider_speed": 7,
