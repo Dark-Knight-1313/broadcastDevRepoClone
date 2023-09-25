@@ -61,7 +61,7 @@
     "show_gift_card_recipient": false,
     "color_swatches": false,
     "favicon": "shopify:\/\/shop_images\/Crab_Place_Logo-vertical-rgb-fullcolor.png",
-    "enable_cart_dropdown": false,
+    "enable_cart_dropdown": true,
     "enable_order_notes": true,
     "enable_estimate_shipping": true,
     "enable_additional_buttons": false,
