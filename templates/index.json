@@ -125,6 +125,7 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Crab_Place_Logo-vertical-rgb-inverse.jpg",
         "link": "",
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align_desktop": "align--middle-center-desktop",
