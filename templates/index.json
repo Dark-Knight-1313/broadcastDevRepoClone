@@ -120,6 +120,29 @@
         "padding_bottom": 50
       }
     },
+    "34d09079-419d-4508-b6aa-c2386ae0f58c": {
+      "type": "section-rich-text",
+      "blocks": {
+        "569b7ae1-2478-4b64-93c2-f48dc4172978": {
+          "type": "heading",
+          "settings": {
+            "title": "HOW IT WORKS",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "569b7ae1-2478-4b64-93c2-f48dc4172978"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 30
+      }
+    },
     "e035784e-f584-4efb-88d9-ae24ffd4a563": {
       "type": "section-hero",
       "settings": {
@@ -135,29 +158,6 @@
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#ffffff"
-      }
-    },
-    "34d09079-419d-4508-b6aa-c2386ae0f58c": {
-      "type": "section-rich-text",
-      "blocks": {
-        "569b7ae1-2478-4b64-93c2-f48dc4172978": {
-          "type": "heading",
-          "settings": {
-            "title": "Shop Now",
-            "text_size": 8
-          }
-        }
-      },
-      "block_order": [
-        "569b7ae1-2478-4b64-93c2-f48dc4172978"
-      ],
-      "settings": {
-        "width": "wrapper",
-        "align_text": "text-center",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 20,
-        "padding_bottom": 30
       }
     },
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d": {
@@ -214,8 +214,8 @@
         "width": "wrapper--full-padded",
         "bg_color": "",
         "color": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "layout_mobile": "grid"
       }
     },
@@ -572,8 +572,8 @@
     "6bcf0c86-4ce5-470a-ae5d-005de7c8fefe",
     "ea4add14-5a4d-460c-9aa1-2cddf87ce65b",
     "4214c987-0964-4b7d-ae4f-53f583b97e06",
-    "e035784e-f584-4efb-88d9-ae24ffd4a563",
     "34d09079-419d-4508-b6aa-c2386ae0f58c",
+    "e035784e-f584-4efb-88d9-ae24ffd4a563",
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d",
     "8afcfdb1-d204-44c1-a68a-37e0fc45b8d0",
     "2eb65f70-c5f7-4859-b013-fcc50412b6c9",
