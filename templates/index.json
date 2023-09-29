@@ -2,6 +2,40 @@
   "sections": {
     "hero": {
       "type": "section-hero",
+      "blocks": {
+        "2ca05020-c14e-4c6b-956d-0467c5266fb3": {
+          "type": "text",
+          "settings": {
+            "description": "At Crab Place",
+            "text_size": 5,
+            "text_style": "font-heading"
+          }
+        },
+        "a17e1779-3b43-452e-a03a-cc46bcc86076": {
+          "type": "text",
+          "settings": {
+            "description": "WE SHARE THE BEST CATCHES WITH YOU",
+            "text_size": 8,
+            "text_style": "font-body"
+          }
+        },
+        "e3291a5a-9a7f-47c4-bb6c-c4ada320c0bd": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop All",
+            "link": "shopify:\/\/collections",
+            "button_type": "btn--secondary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "2ca05020-c14e-4c6b-956d-0467c5266fb3",
+        "a17e1779-3b43-452e-a03a-cc46bcc86076",
+        "e3291a5a-9a7f-47c4-bb6c-c4ada320c0bd"
+      ],
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
