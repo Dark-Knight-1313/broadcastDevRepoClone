@@ -5,6 +5,7 @@
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/King_Crab_Legs_frozen_4169.jpg",
         "link": "",
         "mobile_height": "screen-height-one-third--mobile",
         "flex_align_desktop": "align--middle-left-desktop",
