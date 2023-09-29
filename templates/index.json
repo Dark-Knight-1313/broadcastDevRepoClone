@@ -123,9 +123,9 @@
     "e035784e-f584-4efb-88d9-ae24ffd4a563": {
       "type": "section-hero",
       "settings": {
-        "height": "screen-height-three-quarters",
+        "height": "screen-height-one-third",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/homepage_howitworks_v1_08192023.png",
+        "image_1": "shopify:\/\/shop_images\/how-it-works.jpg",
         "link": "",
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align_desktop": "align--middle-center-desktop",
