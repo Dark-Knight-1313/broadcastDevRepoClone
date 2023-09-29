@@ -145,10 +145,10 @@
     },
     "e035784e-f584-4efb-88d9-ae24ffd4a563": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/sbox-mm_frozen_cbox_v1_08172023.jpg",
         "link": "",
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align_desktop": "align--middle-center-desktop",
