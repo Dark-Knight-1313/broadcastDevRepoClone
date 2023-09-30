@@ -411,9 +411,9 @@
     "b156f607-4b4e-4cbb-9611-18b96bf4f00d": {
       "type": "section-hero",
       "settings": {
-        "height": "screen-height-two-thirds",
+        "height": "screen-height-one-half",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/our-sourcesv3.png",
+        "image_1": "shopify:\/\/shop_images\/our-sourcesv4.jpg",
         "link": "shopify:\/\/pages\/about-us",
         "mobile_height": "screen-height-one-half--mobile",
         "flex_align_desktop": "align--middle-center-desktop",
