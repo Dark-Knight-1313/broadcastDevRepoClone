@@ -386,13 +386,25 @@
             "text_size": 3,
             "text_style": "font-body"
           }
+        },
+        "687fceca-869a-45c5-afda-f9ea2d6cd6f5": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "FAQs",
+            "button_url": "",
+            "button_type": "btn--secondary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": true
+          }
         }
       },
       "block_order": [
         "a3239cda-c153-4227-8b9f-a25db0bdaeea",
         "7b1f9b4c-acf4-4f35-92ce-3353ca100b19",
         "6ff639cf-e3c6-4b23-85cb-cdca847d09bb",
-        "90774494-0219-420f-85ba-781e6acbf516"
+        "90774494-0219-420f-85ba-781e6acbf516",
+        "687fceca-869a-45c5-afda-f9ea2d6cd6f5"
       ],
       "settings": {
         "layout": "",
