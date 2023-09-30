@@ -356,18 +356,18 @@
           "type": "buttons",
           "settings": {
             "button_text": "Learn more",
-            "button_url": "",
+            "button_url": "shopify:\/\/pages\/our-story",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
-            "show_arrow": false
+            "show_arrow": true
           }
         },
         "7b1f9b4c-acf4-4f35-92ce-3353ca100b19": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "text_size": 4,
+            "text": "<p><strong>CrabPlace.com launched in 1997<\/strong> in Crisfield, Maryland, America’s seafood capital.<\/p>",
+            "text_size": 3,
             "text_style": "font-body"
           }
         },
@@ -378,12 +378,21 @@
             "padding_top": 20,
             "padding_bottom": 20
           }
+        },
+        "90774494-0219-420f-85ba-781e6acbf516": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Crab Place brings families and friends together by delivering the world’s best wild-caught seafood to your table.<\/p>",
+            "text_size": 3,
+            "text_style": "font-body"
+          }
         }
       },
       "block_order": [
         "a3239cda-c153-4227-8b9f-a25db0bdaeea",
         "7b1f9b4c-acf4-4f35-92ce-3353ca100b19",
-        "6ff639cf-e3c6-4b23-85cb-cdca847d09bb"
+        "6ff639cf-e3c6-4b23-85cb-cdca847d09bb",
+        "90774494-0219-420f-85ba-781e6acbf516"
       ],
       "settings": {
         "layout": "",
@@ -402,7 +411,7 @@
     "b156f607-4b4e-4cbb-9611-18b96bf4f00d": {
       "type": "section-hero",
       "settings": {
-        "height": "screen-height-one-half",
+        "height": "screen-height-two-thirds",
         "width": "wrapper--full",
         "image_1": "shopify:\/\/shop_images\/our-sourcesv2.png",
         "link": "shopify:\/\/pages\/about-us",
