@@ -230,98 +230,6 @@
         "padding_bottom": 30
       }
     },
-    "2eb65f70-c5f7-4859-b013-fcc50412b6c9": {
-      "type": "section-collections-list",
-      "blocks": {
-        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "fresh",
-            "collection_image": "shopify:\/\/shop_images\/shop-mm_frozen_allproducts_v1_08132023.jpg",
-            "title": ""
-          }
-        },
-        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "frozen",
-            "collection_image": "shopify:\/\/shop_images\/community_recipes_jumbocrabs_v1_08192023.jpg",
-            "title": ""
-          }
-        },
-        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "accessories",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-1",
-        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-2",
-        "template--20536404083005__2eb65f70-c5f7-4859-b013-fcc50412b6c9-collection-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "description": "",
-        "layout": "grid",
-        "aspect_ratio": 1,
-        "grid": 3,
-        "layout_mobile": "slider",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 32,
-        "padding_bottom": 32
-      }
-    },
-    "13acf598-cb80-4436-b1b4-746570733cc7": {
-      "type": "section-collections-list-hover",
-      "blocks": {
-        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "fresh",
-            "image": "shopify:\/\/shop_images\/community_recipes_hardcrabs_v1_08192023.jpg",
-            "title": ""
-          }
-        },
-        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "frozen",
-            "image": "shopify:\/\/shop_images\/sbox-mm_frozen_cbox_v1_08172023.jpg",
-            "title": ""
-          }
-        },
-        "348f720e-1592-4e25-8dc5-ff2c712a6da7": {
-          "type": "collection",
-          "settings": {
-            "collection": "accessories",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-1",
-        "template--20536404083005__13acf598-cb80-4436-b1b4-746570733cc7-collection-2",
-        "348f720e-1592-4e25-8dc5-ff2c712a6da7"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "screen-height-one-third",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "overlay_opacity": 20,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "heading_size": 7,
-        "bg_color": "",
-        "color": "#ffffff",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "45638bad-f910-488e-b796-2ca4474262f8": {
       "type": "section-divider",
       "settings": {
@@ -385,6 +293,17 @@
         "color": "#ffffff"
       }
     },
+    "047637cf-9c41-44ad-b565-dfe6c5ca25b6": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "{{ shop.brand.colors.secondary[0].background }}",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357": {
       "type": "section-hero",
       "settings": {
@@ -429,10 +348,9 @@
     "34d09079-419d-4508-b6aa-c2386ae0f58c",
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d",
     "8afcfdb1-d204-44c1-a68a-37e0fc45b8d0",
-    "2eb65f70-c5f7-4859-b013-fcc50412b6c9",
-    "13acf598-cb80-4436-b1b4-746570733cc7",
     "45638bad-f910-488e-b796-2ca4474262f8",
     "588f150d-1fda-4589-8c32-b1e9f00afa13",
+    "047637cf-9c41-44ad-b565-dfe6c5ca25b6",
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357",
     "e000496f-dcb2-4462-9dec-755172870e65"
   ]
