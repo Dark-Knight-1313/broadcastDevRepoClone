@@ -322,7 +322,7 @@
           "type": "text",
           "settings": {
             "text": "<p><strong>CrabPlace.com launched in 1997<\/strong> in Crisfield, Maryland, America’s seafood capital.<\/p>",
-            "text_size": 3,
+            "text_size": 7,
             "text_style": "font-body"
           }
         },
@@ -338,7 +338,7 @@
           "type": "text",
           "settings": {
             "text": "<p>The Crab Place brings families and friends together by delivering the world’s best wild-caught seafood to your table.<\/p>",
-            "text_size": 3,
+            "text_size": 6,
             "text_style": "font-body"
           }
         },
