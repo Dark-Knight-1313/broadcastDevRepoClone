@@ -7,7 +7,7 @@
           "type": "text",
           "settings": {
             "description": "At Crab Place",
-            "text_size": 5,
+            "text_size": 6,
             "text_style": "font-heading"
           }
         },
@@ -469,7 +469,7 @@
           "type": "text",
           "settings": {
             "description": "Why become a VIP?",
-            "text_size": 5,
+            "text_size": 6,
             "text_style": "font-body"
           }
         },
@@ -501,7 +501,7 @@
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/vip-member-banner-part1.jpg",
+        "image_1": "shopify:\/\/shop_images\/vip-member-banner-part1-wave.png",
         "image_2": "shopify:\/\/shop_images\/vip-member-banner-part2.jpg",
         "link": "",
         "mobile_height": "screen-height-one-half--mobile",
