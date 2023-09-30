@@ -144,21 +144,33 @@
         "padding_bottom": 30
       }
     },
-    "e035784e-f584-4efb-88d9-ae24ffd4a563": {
+    "5eb451e3-df27-4df0-9f4e-3e01c3ec62ff": {
       "type": "section-hero",
-      "disabled": true,
+      "blocks": {
+        "bae6d958-1a0e-4e1a-8b00-fc9ca9829b57": {
+          "type": "heading",
+          "settings": {
+            "title": "How",
+            "heading_size": 11
+          }
+        }
+      },
+      "block_order": [
+        "bae6d958-1a0e-4e1a-8b00-fc9ca9829b57"
+      ],
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-one-third",
         "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/banner-separator-wave.png",
         "link": "",
         "mobile_height": "screen-height-three-quarters--mobile",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 0,
-        "overlay_color": "#000000",
+        "overlay_color": "#000",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#ffffff"
+        "color": "#FFFFFF"
       }
     },
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d": {
@@ -609,7 +621,7 @@
     "ea4add14-5a4d-460c-9aa1-2cddf87ce65b",
     "4214c987-0964-4b7d-ae4f-53f583b97e06",
     "34d09079-419d-4508-b6aa-c2386ae0f58c",
-    "e035784e-f584-4efb-88d9-ae24ffd4a563",
+    "5eb451e3-df27-4df0-9f4e-3e01c3ec62ff",
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d",
     "8afcfdb1-d204-44c1-a68a-37e0fc45b8d0",
     "2eb65f70-c5f7-4859-b013-fcc50412b6c9",
