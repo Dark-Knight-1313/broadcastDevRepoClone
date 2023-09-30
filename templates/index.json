@@ -144,35 +144,6 @@
         "padding_bottom": 30
       }
     },
-    "5eb451e3-df27-4df0-9f4e-3e01c3ec62ff": {
-      "type": "section-hero",
-      "blocks": {
-        "bae6d958-1a0e-4e1a-8b00-fc9ca9829b57": {
-          "type": "heading",
-          "settings": {
-            "title": "How",
-            "heading_size": 11
-          }
-        }
-      },
-      "block_order": [
-        "bae6d958-1a0e-4e1a-8b00-fc9ca9829b57"
-      ],
-      "settings": {
-        "height": "screen-height-one-third",
-        "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/banner-separator-wave.png",
-        "link": "",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_desktop": "align--middle-center-desktop",
-        "flex_align_mobile": "align--middle-center-mobile",
-        "overlay_opacity": 0,
-        "overlay_color": "#000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#FFFFFF"
-      }
-    },
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d": {
       "type": "section-text-row",
       "blocks": {
@@ -559,59 +530,6 @@
         "bg_color": "",
         "color": "#ffffff"
       }
-    },
-    "816decec-7aaa-489e-85fd-a1babbcfe410": {
-      "type": "section-look",
-      "blocks": {
-        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "king-crab-legs-huge",
-            "position_x": 14,
-            "position_y": 37
-          }
-        },
-        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-2": {
-          "type": "product",
-          "settings": {
-            "product": "crawfish-cooked-frozen",
-            "position_x": 45,
-            "position_y": 60
-          }
-        },
-        "00ac4be5-b45b-4b4c-8f1b-c8b86efcb69a": {
-          "type": "product",
-          "settings": {
-            "product": "clams-little-neck",
-            "position_x": 50,
-            "position_y": 50
-          }
-        }
-      },
-      "block_order": [
-        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-1",
-        "template--20536404083005__816decec-7aaa-489e-85fd-a1babbcfe410-product-2",
-        "00ac4be5-b45b-4b4c-8f1b-c8b86efcb69a"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/aboutus-mm_recipes_allrecipes_v1_08132023.jpg",
-        "title": "Shop the look",
-        "show_dots": true,
-        "products_per_row": "1",
-        "enable_aspect_ratio": true,
-        "image_aspect_ratio": 1,
-        "button_type": "btn--white",
-        "button_size": "",
-        "button_style": "btn--outline",
-        "show_arrow": false,
-        "bg_color": "",
-        "color": "",
-        "dot_color": "",
-        "dot_background": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
@@ -621,7 +539,6 @@
     "ea4add14-5a4d-460c-9aa1-2cddf87ce65b",
     "4214c987-0964-4b7d-ae4f-53f583b97e06",
     "34d09079-419d-4508-b6aa-c2386ae0f58c",
-    "5eb451e3-df27-4df0-9f4e-3e01c3ec62ff",
     "f41adac0-e9ff-4751-a3e1-e34b2b18901d",
     "8afcfdb1-d204-44c1-a68a-37e0fc45b8d0",
     "2eb65f70-c5f7-4859-b013-fcc50412b6c9",
@@ -632,7 +549,6 @@
     "c7c54487-7716-4a74-b3e8-c20c9c8ab698",
     "588f150d-1fda-4589-8c32-b1e9f00afa13",
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357",
-    "e000496f-dcb2-4462-9dec-755172870e65",
-    "816decec-7aaa-489e-85fd-a1babbcfe410"
+    "e000496f-dcb2-4462-9dec-755172870e65"
   ]
 }
