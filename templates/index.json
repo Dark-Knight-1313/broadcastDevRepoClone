@@ -447,6 +447,7 @@
     },
     "e000496f-dcb2-4462-9dec-755172870e65": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
@@ -460,6 +461,27 @@
         "show_overlay_text": false,
         "bg_color": "",
         "color": "#ffffff"
+      }
+    },
+    "6c75deb5-e5e2-4d68-92c4-242551e71cfc": {
+      "type": "section-before-after",
+      "settings": {
+        "heading": "We Bring People Togeter",
+        "description": "<p>We help families and friends come together around the table by providing them with amazing seafood they can’t find anywhere else.<\/p>",
+        "link_text": "Community Page",
+        "link_url": "shopify:\/\/pages\/community",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": true,
+        "image_1": "shopify:\/\/shop_images\/community_videoimage_ccruise2_v1_08192023.png",
+        "image_2": "shopify:\/\/shop_images\/community_banner_v1_08192023.jpg",
+        "aspect_ratio": 1,
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "{{ shop.brand.colors.primary[0].background }}",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
@@ -480,6 +502,7 @@
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357",
     "bf6ac76b-3b42-4cf6-b3bc-776ebeebe9df",
     "0f3a4a34-28f6-4606-adf4-fd0d5c55fa44",
-    "e000496f-dcb2-4462-9dec-755172870e65"
+    "e000496f-dcb2-4462-9dec-755172870e65",
+    "6c75deb5-e5e2-4d68-92c4-242551e71cfc"
   ]
 }
