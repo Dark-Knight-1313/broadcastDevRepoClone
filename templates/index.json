@@ -351,12 +351,47 @@
     },
     "acc0b850-1768-4b48-a987-9af07811ce1e": {
       "type": "section-double",
+      "blocks": {
+        "a3239cda-c153-4227-8b9f-a25db0bdaeea": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "7b1f9b4c-acf4-4f35-92ce-3353ca100b19": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "6ff639cf-e3c6-4b23-85cb-cdca847d09bb": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_top": 20,
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "a3239cda-c153-4227-8b9f-a25db0bdaeea",
+        "7b1f9b4c-acf4-4f35-92ce-3353ca100b19",
+        "6ff639cf-e3c6-4b23-85cb-cdca847d09bb"
+      ],
       "settings": {
         "layout": "",
         "height": "screen-height-three-quarters",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper--full",
-        "image_width": "one-half",
+        "image_1": "shopify:\/\/shop_images\/our-story.jpg",
+        "image_width": "three-quarters",
         "text_alignment": "text-left",
         "bg_color": "",
         "color": "",
