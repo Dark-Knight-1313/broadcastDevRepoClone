@@ -414,6 +414,7 @@
         "height": "screen-height-one-half",
         "width": "wrapper--full",
         "image_1": "shopify:\/\/shop_images\/our-sourcesv4.jpg",
+        "image_2": "shopify:\/\/shop_images\/our-team.jpg",
         "link": "shopify:\/\/pages\/about-us",
         "mobile_height": "screen-height-one-half--mobile",
         "flex_align_desktop": "align--middle-center-desktop",
