@@ -422,6 +422,29 @@
         "padding_bottom": 50
       }
     },
+    "0f3a4a34-28f6-4606-adf4-fd0d5c55fa44": {
+      "type": "section-rich-text",
+      "blocks": {
+        "6ade8262-4228-4e8f-be1e-64bb694ab9a1": {
+          "type": "heading",
+          "settings": {
+            "title": "In The Community",
+            "text_size": 8
+          }
+        }
+      },
+      "block_order": [
+        "6ade8262-4228-4e8f-be1e-64bb694ab9a1"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-center",
+        "bg_color": "",
+        "color": "{{ shop.brand.colors.primary[0].background }}",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
     "e000496f-dcb2-4462-9dec-755172870e65": {
       "type": "section-hero",
       "settings": {
@@ -456,6 +479,7 @@
     "b156f607-4b4e-4cbb-9611-18b96bf4f00d",
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357",
     "bf6ac76b-3b42-4cf6-b3bc-776ebeebe9df",
+    "0f3a4a34-28f6-4606-adf4-fd0d5c55fa44",
     "e000496f-dcb2-4462-9dec-755172870e65"
   ]
 }
