@@ -304,51 +304,6 @@
         "padding_bottom": 50
       }
     },
-    "5c1a7d7c-cb5e-4d36-9d2a-20928c702357": {
-      "type": "section-hero",
-      "settings": {
-        "height": "screen-height-two-thirds",
-        "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/homepage_ourinfo-ph_v1_08192023.png",
-        "link": "",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_desktop": "align--middle-left-desktop",
-        "flex_align_mobile": "align--middle-left-mobile",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
-    "bf6ac76b-3b42-4cf6-b3bc-776ebeebe9df": {
-      "type": "section-divider",
-      "settings": {
-        "show_line": true,
-        "width": "wrapper",
-        "border_color": "{{ shop.brand.colors.secondary[0].background }}",
-        "bg_color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
-    "e000496f-dcb2-4462-9dec-755172870e65": {
-      "type": "section-hero",
-      "settings": {
-        "height": "screen-height-two-thirds",
-        "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/homepage_community-ph_v1_08192023.png",
-        "link": "",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_desktop": "align--middle-left-desktop",
-        "flex_align_mobile": "align--middle-left-mobile",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
     "acc0b850-1768-4b48-a987-9af07811ce1e": {
       "type": "section-double",
       "blocks": {
@@ -422,6 +377,7 @@
     },
     "b156f607-4b4e-4cbb-9611-18b96bf4f00d": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "width": "wrapper--full",
@@ -437,6 +393,51 @@
         "bg_color": "",
         "color": "#FFFFFF"
       }
+    },
+    "5c1a7d7c-cb5e-4d36-9d2a-20928c702357": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_ourinfo-ph_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "flex_align_mobile": "align--middle-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "bf6ac76b-3b42-4cf6-b3bc-776ebeebe9df": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "border_color": "{{ shop.brand.colors.secondary[0].background }}",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "e000496f-dcb2-4462-9dec-755172870e65": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/homepage_community-ph_v1_08192023.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "flex_align_mobile": "align--middle-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -451,10 +452,10 @@
     "45638bad-f910-488e-b796-2ca4474262f8",
     "588f150d-1fda-4589-8c32-b1e9f00afa13",
     "047637cf-9c41-44ad-b565-dfe6c5ca25b6",
+    "acc0b850-1768-4b48-a987-9af07811ce1e",
+    "b156f607-4b4e-4cbb-9611-18b96bf4f00d",
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357",
     "bf6ac76b-3b42-4cf6-b3bc-776ebeebe9df",
-    "e000496f-dcb2-4462-9dec-755172870e65",
-    "acc0b850-1768-4b48-a987-9af07811ce1e",
-    "b156f607-4b4e-4cbb-9611-18b96bf4f00d"
+    "e000496f-dcb2-4462-9dec-755172870e65"
   ]
 }
