@@ -377,7 +377,6 @@
     },
     "b156f607-4b4e-4cbb-9611-18b96bf4f00d": {
       "type": "section-hero",
-      "disabled": true,
       "settings": {
         "height": "screen-height-one-half",
         "width": "wrapper--full",
@@ -396,6 +395,7 @@
     },
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
