@@ -478,11 +478,23 @@
             "text_size": 5,
             "text_style": "font-body"
           }
+        },
+        "6654502e-36ba-4564-83cb-7b451561b985": {
+          "type": "button",
+          "settings": {
+            "link_text": "Learn More",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
         }
       },
       "block_order": [
         "dbb6994d-bb9f-41e3-a26f-6645cc4fbc7a",
-        "bea9c7c5-4e1b-4bab-91dd-f2c8beae2796"
+        "bea9c7c5-4e1b-4bab-91dd-f2c8beae2796",
+        "6654502e-36ba-4564-83cb-7b451561b985"
       ],
       "settings": {
         "height": "screen-height-two-thirds",
