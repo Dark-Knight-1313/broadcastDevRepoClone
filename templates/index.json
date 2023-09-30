@@ -467,13 +467,22 @@
         "dbb6994d-bb9f-41e3-a26f-6645cc4fbc7a": {
           "type": "heading",
           "settings": {
-            "title": "Image banner",
-            "heading_size": 11
+            "title": "Become A VIP?",
+            "heading_size": 8
+          }
+        },
+        "bea9c7c5-4e1b-4bab-91dd-f2c8beae2796": {
+          "type": "text",
+          "settings": {
+            "description": "VIP Club - Save On Every Order!\n\nJoin the VIP Club for $49 and packaging fees waived on all orders over $100!",
+            "text_size": 5,
+            "text_style": "font-body"
           }
         }
       },
       "block_order": [
-        "dbb6994d-bb9f-41e3-a26f-6645cc4fbc7a"
+        "dbb6994d-bb9f-41e3-a26f-6645cc4fbc7a",
+        "bea9c7c5-4e1b-4bab-91dd-f2c8beae2796"
       ],
       "settings": {
         "height": "screen-height-two-thirds",
