@@ -81,7 +81,7 @@
         "width": "wrapper",
         "align_text": "text-center",
         "bg_color": "",
-        "color": "",
+        "color": "{{ shop.brand.colors.primary[0].background }}",
         "padding_top": 0,
         "padding_bottom": 0
       }
