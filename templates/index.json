@@ -346,7 +346,7 @@
           "type": "buttons",
           "settings": {
             "button_text": "FAQs",
-            "button_url": "",
+            "button_url": "shopify:\/\/pages\/faqs",
             "button_type": "btn--secondary",
             "button_size": "",
             "button_style": "btn--solid",
