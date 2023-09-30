@@ -465,18 +465,19 @@
     "588f150d-1fda-4589-8c32-b1e9f00afa13": {
       "type": "section-hero",
       "blocks": {
-        "dbb6994d-bb9f-41e3-a26f-6645cc4fbc7a": {
-          "type": "heading",
+        "26f9538e-dec4-455a-a8cc-f90cbfac9f85": {
+          "type": "text",
           "settings": {
-            "title": "Become A VIP?",
-            "heading_size": 8
+            "description": "Why become a VIP?",
+            "text_size": 5,
+            "text_style": "font-body"
           }
         },
         "bea9c7c5-4e1b-4bab-91dd-f2c8beae2796": {
           "type": "text",
           "settings": {
-            "description": "VIP Club - Save On Every Order!\n\nJoin the VIP Club for $49 and packaging fees waived on all orders over $100!",
-            "text_size": 5,
+            "description": "VIP MEMBERS - SAVE ON EVERY ORDER",
+            "text_size": 8,
             "text_style": "font-body"
           }
         },
@@ -488,12 +489,12 @@
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
-            "show_arrow": false
+            "show_arrow": true
           }
         }
       },
       "block_order": [
-        "dbb6994d-bb9f-41e3-a26f-6645cc4fbc7a",
+        "26f9538e-dec4-455a-a8cc-f90cbfac9f85",
         "bea9c7c5-4e1b-4bab-91dd-f2c8beae2796",
         "6654502e-36ba-4564-83cb-7b451561b985"
       ],
