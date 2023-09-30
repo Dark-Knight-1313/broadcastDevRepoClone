@@ -290,7 +290,7 @@
         "overlay_color": "{{ shop.brand.colors.primary[0].background }}",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "{{ shop.brand.colors.primary[0].background }}"
+        "color": "#FFFFFF"
       }
     },
     "047637cf-9c41-44ad-b565-dfe6c5ca25b6": {
