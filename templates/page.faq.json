@@ -85,8 +85,8 @@
         "73fde7a7-40d0-4ab9-8539-0a514beaf2e6": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+            "title": "Do you ship your products?",
+            "content": "<p>Yes, we use FedEx to deliver our products to all 50 U.S. states. Due to customs restrictions on perishables, we're currently unable to ship outside of the U.S. For more info on shipping, including pricing, please visit<a href=\"https:\/\/www.crabplace.com\/ship.asp\">www.crabplace.com\/ship.asp<\/a>.<\/p>"
           }
         },
         "39c93163-b130-4658-a9f6-365fd45d7b70": {
