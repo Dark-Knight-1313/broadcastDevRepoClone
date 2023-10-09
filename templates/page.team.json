@@ -9,7 +9,7 @@
         "heading_size": 8,
         "show_content": true,
         "text_size": 4,
-        "align_text": "text-center",
+        "align_text": "text-left",
         "width": "wrapper",
         "bg_color": "#f7f7f7",
         "color": "",
