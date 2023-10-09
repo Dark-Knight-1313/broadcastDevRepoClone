@@ -46,13 +46,21 @@
             "title": "How is ordering seafood online environmentally friendly?",
             "content": "<p>Ordering seafood online is a great way to reduce individual fuel consumption. One FedEx truck packed with hundreds of orders results in fewer cars driving to the seafood market or grocery store.<br\/><br\/>CrabPlace.com seafood selections spend less than 36 hours between the docks next to our facility in Crisfield and your table—the whole time in carefully packed, specially designed coolers—which compares favorably to the massive energy consumption required by traditional retailers who keep seafood in refrigerated showcases under warm lights, usually for days at a time.<\/p>"
           }
+        },
+        "d3676097-1617-432f-8b0d-89f96dbbacf1": {
+          "type": "question",
+          "settings": {
+            "title": "Why buy domestically harvested crabs and crabmeat?",
+            "content": "<p>There is very little regulation and oversight on foreign crab products. By the time it reaches the U.S. consumer, the product's origination and the conditions under which it was processed is anyone's guess. In some cases, child labor is prevalent. In the U.S., every single aspect of the seafood industry is tightly controlled by various Federal and State entities. For example, in Maryland the state's Department of the Environment has been monitoring chemical contaminant levels in local seafood since the early 1970s.<\/p>"
+          }
         }
       },
       "block_order": [
         "faq-heading",
         "faq-0",
         "faq-1",
-        "faq-2"
+        "faq-2",
+        "d3676097-1617-432f-8b0d-89f96dbbacf1"
       ],
       "settings": {
         "width": "wrapper--narrow",
