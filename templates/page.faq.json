@@ -60,6 +60,62 @@
             "title": "Are all of the products listed on your site currently available?",
             "content": "<p>When items become unavailable we remove them from the web site. Demand for some products will occasionally exceed our supply. We do our best to have all products on hand. If you wish to check the availability of a product you can email us through our contact form or call us toll free at 1-410-968-3167.<\/p>"
           }
+        },
+        "b79fcb47-01a6-4c59-861f-f23ea972dcab": {
+          "type": "question",
+          "settings": {
+            "title": "Does the quality of crabs vary with the seasons?",
+            "content": "<p>Crabs will vary in weight over the course of the year. Fuller, heavier crabs are usually plentiful during the fall between September and early November. These crabs have had the summer to shed and fill their cavities with meat. Crabs that shed in the spring tend to be lighter. We do our best to select plump, top quality crabs.<\/p>"
+          }
+        },
+        "1c326c29-b0d8-4378-abd2-7ac1cd329609": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "8b5972da-5e14-492f-b848-b0e1eee1b77f": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "73fde7a7-40d0-4ab9-8539-0a514beaf2e6": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "39c93163-b130-4658-a9f6-365fd45d7b70": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "07a83871-b044-4ef2-8142-3c2cd6394e70": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "4ef334a3-eff1-4b09-a596-2bde3f5394dd": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "549bb059-11cb-4646-9df6-d24222f54373": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -68,7 +124,15 @@
         "faq-1",
         "faq-2",
         "d3676097-1617-432f-8b0d-89f96dbbacf1",
-        "7d0f3afd-c321-471c-b216-3a0af3a4e534"
+        "7d0f3afd-c321-471c-b216-3a0af3a4e534",
+        "b79fcb47-01a6-4c59-861f-f23ea972dcab",
+        "1c326c29-b0d8-4378-abd2-7ac1cd329609",
+        "8b5972da-5e14-492f-b848-b0e1eee1b77f",
+        "73fde7a7-40d0-4ab9-8539-0a514beaf2e6",
+        "39c93163-b130-4658-a9f6-365fd45d7b70",
+        "07a83871-b044-4ef2-8142-3c2cd6394e70",
+        "4ef334a3-eff1-4b09-a596-2bde3f5394dd",
+        "549bb059-11cb-4646-9df6-d24222f54373"
       ],
       "settings": {
         "width": "wrapper--narrow",
