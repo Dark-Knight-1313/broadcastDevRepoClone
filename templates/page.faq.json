@@ -82,6 +82,13 @@
             "content": "<p>Crabs are graded by size, relative to points across the backs of their shells. Standards measure between 5 and 5½ inches across, with 7 dozen crabs per bushel. Selects measure between 5½ and 6 inches across, with 6 dozen crabs per bushel. Premiums measure 6 to 6¾ inches, with 5 dozen per bushel. Colossal crabs measure over 6¾ inches from point to point, and are only sold in dozen quantities. Jumbo female crabs measure 5¼ to 6 inches, with approximately 6 dozen per bushel. Small\/medium female crabs measure 5¼ and smaller with no minimum size, and run approximately 7 dozen per bushel.<\/p>"
           }
         },
+        "549bb059-11cb-4646-9df6-d24222f54373": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between large, medium, and small female hard crabs?",
+            "content": "<p>Crabs are graded by size, relative to points across the backs of their shells. Large females measure at least 6 inches and up with 5 dozen per bushel. Medium females measure between 5¼ and 6 inches, with 6 dozen to a bushel. Small crabs measure 5¼ and under with 7 dozen per bushel.<\/p>"
+          }
+        },
         "73fde7a7-40d0-4ab9-8539-0a514beaf2e6": {
           "type": "question",
           "settings": {
@@ -109,13 +116,6 @@
             "title": "What happens if my orders arrives late?",
             "content": "<p>The nature of working thru a 3rd party carrier and delivering perishable product across the country to customers creates some unique challenges at times. In the event that something goes wrong here's what you can expect from us to make it right:<br\/><br\/><strong>Package doesn't arrive on the requested day due to FedEx or Crabplace.com error<\/strong>- We'll refund your money or replace your package, whichever you prefer.<br\/><br\/><strong>Package doesn't arrive on the requested day due to weather delay<\/strong>- We'll replace the package or issue a gift certificate which can be used later towards another order, whichever you prefer.<br\/><br\/>Because FedEx will not cover claims on weather delays, we aren't able to offer refunds on delayed product that's deemed weather-related. But, again, we will make sure you get your money's worth in the form of a gift certificate or a replacement box so you're not out of pocket.<br\/><br\/>Please note that the delays don't always occur in the destination city. Sometimes customers are affected by a weather delay when there's nothing inclement in their area. Delayed flights and trucks in cities along the way can disrupt the service just as much as a snowstorm in the destination city.<br\/><br\/>We rely on FedEx scans to advise us if delays are related to weather. Weather delays don't happen often but they do occur. FedEx does a fantastic job of pushing thru rain, sleet, snow, etc and typically can fight thru most storms unless it's simply not safe to do so.<\/p>"
           }
-        },
-        "549bb059-11cb-4646-9df6-d24222f54373": {
-          "type": "question",
-          "settings": {
-            "title": "What is the difference between large, medium, and small female hard crabs?",
-            "content": "<p>Crabs are graded by size, relative to points across the backs of their shells. Large females measure at least 6 inches and up with 5 dozen per bushel. Medium females measure between 5¼ and 6 inches, with 6 dozen to a bushel. Small crabs measure 5¼ and under with 7 dozen per bushel.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -128,11 +128,11 @@
         "b79fcb47-01a6-4c59-861f-f23ea972dcab",
         "1c326c29-b0d8-4378-abd2-7ac1cd329609",
         "8b5972da-5e14-492f-b848-b0e1eee1b77f",
+        "549bb059-11cb-4646-9df6-d24222f54373",
         "73fde7a7-40d0-4ab9-8539-0a514beaf2e6",
         "39c93163-b130-4658-a9f6-365fd45d7b70",
         "07a83871-b044-4ef2-8142-3c2cd6394e70",
-        "4ef334a3-eff1-4b09-a596-2bde3f5394dd",
-        "549bb059-11cb-4646-9df6-d24222f54373"
+        "4ef334a3-eff1-4b09-a596-2bde3f5394dd"
       ],
       "settings": {
         "width": "wrapper--narrow",
