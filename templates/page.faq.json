@@ -53,6 +53,13 @@
             "title": "Why buy domestically harvested crabs and crabmeat?",
             "content": "<p>There is very little regulation and oversight on foreign crab products. By the time it reaches the U.S. consumer, the product's origination and the conditions under which it was processed is anyone's guess. In some cases, child labor is prevalent. In the U.S., every single aspect of the seafood industry is tightly controlled by various Federal and State entities. For example, in Maryland the state's Department of the Environment has been monitoring chemical contaminant levels in local seafood since the early 1970s.<\/p>"
           }
+        },
+        "7d0f3afd-c321-471c-b216-3a0af3a4e534": {
+          "type": "question",
+          "settings": {
+            "title": "How can I tell where my seafood comes from?",
+            "content": "<p>Grocery stores have been required to label seafood under a \"Country of Origin\" (COOL for short) food labeling law passed by Congress in 2004. Fish markets and restaurants are exempt, so in those situations it is up to the consumer to make sure. For seafood products to be labeled with a U.S. country of origin, they must be derived exclusively from fish or shellfish hatched, raised, and processed in the United States.<br\/><br\/>Although we are not subject to COOL regulations, we are still very proud to let our customers know that all of Crab Place's products are 100% domestically harvested seafood.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -60,7 +67,8 @@
         "faq-0",
         "faq-1",
         "faq-2",
-        "d3676097-1617-432f-8b0d-89f96dbbacf1"
+        "d3676097-1617-432f-8b0d-89f96dbbacf1",
+        "7d0f3afd-c321-471c-b216-3a0af3a4e534"
       ],
       "settings": {
         "width": "wrapper--narrow",
