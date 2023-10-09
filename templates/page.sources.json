@@ -17,57 +17,64 @@
         "padding_bottom": 50
       }
     },
-    "db18b661-def7-41e7-a04d-722f71c7cb35": {
-      "type": "section-accordion",
+    "6ef7faab-747a-42b5-8d04-901a191bdf63": {
+      "type": "section-accordion-group",
       "blocks": {
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-1": {
-          "type": "text",
+        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-1": {
+          "type": "question",
           "settings": {
             "title": "Are hard shell blue crabs a sustainable, eco-friendly seafood choice?",
-            "text": "<p>Yes! Blue crabs mature and reproduce VERY quickly. The domestic United States Blue Crab fishery is very sustainable. Also, Blue Crabs are caught in traps that are eco-friendly, in that this method results in very little bycatch and damage to natural ocean and bay habitats.<\/p>"
+            "content": "<p>Yes! Blue crabs mature and reproduce VERY quickly. The domestic United States Blue Crab fishery is very sustainable. Also, Blue Crabs are caught in traps that are eco-friendly, in that this method results in very little bycatch and damage to natural ocean and bay habitats.<\/p>"
           }
         },
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-2": {
-          "type": "text",
+        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-2": {
+          "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
           }
         },
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-3": {
-          "type": "text",
+        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-3": {
+          "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
           }
         },
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-4": {
-          "type": "text",
+        "ef68c9fd-20bc-42c5-aa64-a5851e3fa229": {
+          "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this to answer some common questions you hear from your customers. You could discuss product details, size fit, shipping policies, or anything you think would help merchants make an informed decision about your products. This section will appear across all products.<\/p>"
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "f6cd41d2-b86c-47aa-ad2d-e47c915f2b4c": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-1",
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-2",
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-3",
-        "template--21357758087485__db18b661-def7-41e7-a04d-722f71c7cb35-text-4"
+        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-1",
+        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-2",
+        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-3",
+        "ef68c9fd-20bc-42c5-aa64-a5851e3fa229",
+        "f6cd41d2-b86c-47aa-ad2d-e47c915f2b4c"
       ],
       "settings": {
-        "title": "",
+        "width": "wrapper--narrow",
         "bg_color": "",
         "color": "",
         "border_color": "",
-        "width": "wrapper",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     }
   },
   "order": [
     "main",
-    "db18b661-def7-41e7-a04d-722f71c7cb35"
+    "6ef7faab-747a-42b5-8d04-901a191bdf63"
   ]
 }
