@@ -34,23 +34,11 @@
             "text_size": 4,
             "text_style": "font-body"
           }
-        },
-        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_text": "Learn more",
-            "button_url": "",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
         }
       },
       "block_order": [
         "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-heading-1",
-        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-text-1",
-        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-buttons-1"
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-text-1"
       ],
       "settings": {
         "layout": "",
