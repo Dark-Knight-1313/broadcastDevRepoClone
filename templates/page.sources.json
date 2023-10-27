@@ -16,65 +16,9 @@
         "padding_top": 50,
         "padding_bottom": 50
       }
-    },
-    "6ef7faab-747a-42b5-8d04-901a191bdf63": {
-      "type": "section-accordion-group",
-      "blocks": {
-        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Are hard shell blue crabs a sustainable, eco-friendly seafood choice?",
-            "content": "<p>Yes! Blue crabs mature and reproduce VERY quickly. The domestic United States Blue Crab fishery is very sustainable. Also, Blue Crabs are caught in traps that are eco-friendly, in that this method results in very little bycatch and damage to natural ocean and bay habitats.<\/p>"
-          }
-        },
-        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Are blue crabs a healthy seafood choice?",
-            "content": "<p>Absolutely. Crabmeat is high-protein and crabmeat is virtually fat-free. Crabs are also a great source of Vitamin B12. About three ounces of crab meat contains a full day's allowance of vitamin B12.<\/p>"
-          }
-        },
-        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-3": {
-          "type": "question",
-          "settings": {
-            "title": "How is ordering seafood online environmentally friendly?",
-            "content": "<p>Ordering seafood online is a great way to reduce individual fuel consumption. One FedEx truck packed with hundreds of orders results in fewer cars driving to the seafood market or grocery store.<br\/><br\/>CrabPlace.com seafood selections spend less than 36 hours between the docks next to our facility in Crisfield and your table—the whole time in carefully packed, specially designed coolers—which compares favorably to the massive energy consumption required by traditional retailers who keep seafood in refrigerated showcases under warm lights, usually for days at a time.<\/p>"
-          }
-        },
-        "ef68c9fd-20bc-42c5-aa64-a5851e3fa229": {
-          "type": "question",
-          "settings": {
-            "title": "Why buy domestically harvested crabs and crabmeat?",
-            "content": "<p>There is very little regulation and oversight on foreign crab products. By the time it reaches the U.S. consumer, the product's origination and the conditions under which it was processed is anyone's guess. In some cases, child labor is prevalent. In the U.S., every single aspect of the seafood industry is tightly controlled by various Federal and State entities. For example, in Maryland the state's Department of the Environment has been monitoring chemical contaminant levels in local seafood since the early 1970s.<\/p>"
-          }
-        },
-        "f6cd41d2-b86c-47aa-ad2d-e47c915f2b4c": {
-          "type": "question",
-          "settings": {
-            "title": "How can I tell where my seafood comes from?",
-            "content": "<p>Grocery stores have been required to label seafood under a \"Country of Origin\" (COOL for short) food labeling law passed by Congress in 2004. Fish markets and restaurants are exempt, so in those situations it is up to the consumer to make sure. For seafood products to be labeled with a U.S. country of origin, they must be derived exclusively from fish or shellfish hatched, raised, and processed in the United States.<br\/><br\/>Although we are not subject to COOL regulations, we are still very proud to let our customers know that all of Crab Place's products are 100% domestically harvested seafood.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-1",
-        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-2",
-        "template--21357758087485__6ef7faab-747a-42b5-8d04-901a191bdf63-question-3",
-        "ef68c9fd-20bc-42c5-aa64-a5851e3fa229",
-        "f6cd41d2-b86c-47aa-ad2d-e47c915f2b4c"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "bg_color": "",
-        "color": "",
-        "border_color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
     }
   },
   "order": [
-    "main",
-    "6ef7faab-747a-42b5-8d04-901a191bdf63"
+    "main"
   ]
 }
