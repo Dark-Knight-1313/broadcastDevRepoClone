@@ -87,76 +87,6 @@
         "layout_mobile": "carousel"
       }
     },
-    "team-1": {
-      "type": "section-multicolumn",
-      "blocks": {
-        "person-0": {
-          "type": "text",
-          "settings": {
-            "column_width": 33,
-            "title": "Paul Giordano",
-            "heading_size": 4,
-            "text": "<p>Director of Operations<\/p>",
-            "text_size": 3,
-            "text_style": "font-body",
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "person-1": {
-          "type": "text",
-          "settings": {
-            "column_width": 33,
-            "title": "Carman Pilkerton",
-            "heading_size": 4,
-            "text": "<p>Assistant Director \/ Operations, Production<\/p>",
-            "text_size": 3,
-            "text_style": "font-body",
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "person-2": {
-          "type": "text",
-          "settings": {
-            "column_width": 33,
-            "title": "[insert name]",
-            "heading_size": 4,
-            "text": "<p>[insert title]<\/p>",
-            "text_size": 3,
-            "text_style": "font-body",
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "person-0",
-        "person-1",
-        "person-2"
-      ],
-      "settings": {
-        "title": "Operations Team",
-        "heading_size": 5,
-        "align_text": "text-center",
-        "align_columns": "flex-align-top",
-        "width": "wrapper--full-padded",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "layout_mobile": "carousel"
-      }
-    },
     "647e2b62-66cf-45de-ba01-a8f1049c7aff": {
       "type": "section-multicolumn",
       "blocks": {
@@ -213,6 +143,76 @@
         "51ae1486-5434-4974-b3d1-12a288d2e21e",
         "b20ce7fe-bab0-4bcc-af00-6a9ef3185b6e",
         "6b192bfd-30a5-4959-8237-55aed8c2eba9"
+      ],
+      "settings": {
+        "title": "Operations Team",
+        "heading_size": 5,
+        "align_text": "text-center",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
+    "team-1": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "person-0": {
+          "type": "text",
+          "settings": {
+            "column_width": 33,
+            "title": "Mercedes Young",
+            "heading_size": 4,
+            "text": "<p>Assistant Director \/ Customer Service, Human Resources<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "person-1": {
+          "type": "text",
+          "settings": {
+            "column_width": 33,
+            "title": "Arielle Johnston",
+            "heading_size": 4,
+            "text": "<p>Assistant Director \/ Accounting, Marketing<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "person-2": {
+          "type": "text",
+          "settings": {
+            "column_width": 33,
+            "title": "[insert name]",
+            "heading_size": 4,
+            "text": "<p>[insert title]<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "person-0",
+        "person-1",
+        "person-2"
       ],
       "settings": {
         "title": "Operations Team",
@@ -302,8 +302,8 @@
   "order": [
     "main",
     "team-0",
-    "team-1",
     "647e2b62-66cf-45de-ba01-a8f1049c7aff",
+    "team-1",
     "team-2"
   ]
 }
