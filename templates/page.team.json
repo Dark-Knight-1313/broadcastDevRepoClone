@@ -126,9 +126,9 @@
           "type": "text",
           "settings": {
             "column_width": 33,
-            "title": "Matt Cain Jr",
+            "title": "",
             "heading_size": 4,
-            "text": "<p>Assistant Director \/ Supply Chain, Hard Crab Division<\/p>",
+            "text": "",
             "text_size": 3,
             "text_style": "font-body",
             "button_text": "",
@@ -164,9 +164,9 @@
           "type": "text",
           "settings": {
             "column_width": 33,
-            "title": "Mercedes Young",
+            "title": "Matt Cain Jr",
             "heading_size": 4,
-            "text": "<p>Assistant Director \/ Customer Service, Human Resources<\/p>",
+            "text": "<p>Assistant Director \/ Supply Chain, Hard Crab Division<\/p>",
             "text_size": 3,
             "text_style": "font-body",
             "button_text": "",
@@ -180,9 +180,9 @@
           "type": "text",
           "settings": {
             "column_width": 33,
-            "title": "Arielle Johnston",
+            "title": "Mercedes Young",
             "heading_size": 4,
-            "text": "<p>Assistant Director \/ Accounting, Marketing<\/p>",
+            "text": "<p>Assistant Director \/ Customer Service, Human Resources<\/p>",
             "text_size": 3,
             "text_style": "font-body",
             "button_text": "",
@@ -196,9 +196,9 @@
           "type": "text",
           "settings": {
             "column_width": 33,
-            "title": "[insert name]",
+            "title": "Arielle Johnston",
             "heading_size": 4,
-            "text": "<p>[insert title]<\/p>",
+            "text": "<p>Assistant Director \/ Accounting, Marketing<\/p>",
             "text_size": 3,
             "text_style": "font-body",
             "button_text": "",
@@ -215,7 +215,7 @@
         "person-2"
       ],
       "settings": {
-        "title": "Operations Team",
+        "title": "Supply Chain\/HR\/Accounting Team",
         "heading_size": 5,
         "align_text": "text-center",
         "align_columns": "flex-align-top",
