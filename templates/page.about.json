@@ -17,6 +17,54 @@
         "padding_bottom": 50
       }
     },
+    "5024fc2c-453d-45ec-a5fe-509dcc9738ac": {
+      "type": "section-double",
+      "blocks": {
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "About Us",
+            "text_size": 8
+          }
+        },
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Greg Cain started CrabPlace.com in 1997 in Crisfield, Maryland, America’s seafood capital. As business grew, his brother, Matt, joined the company to head up operations. The two began by selling and shipping fresh Maryland crab caught daily by local watermen. Their unique packing and delivery processes kept crabs at their freshest, and our satisfied customer base grew quickly. As a result, the company received the SBA Maryland Entrepreneurial Success of the Year Award in 2001.<a href=\"https:\/\/www.crabplace.com\/news.asp\">(see what the media is saying about Crabplace.com)<\/a>In 2005, Greg and Matt invited Rebecca Gareis Bent into the CrabPlace.com family to be in charge of product development, photography, and marketing. She is a Baltimore native and the author of the cookbooks Burgers (2004), Down at the Shore (2006), and Everyday is Delicious (2007). She has been featured on the Today Show and ESPN, and in Forbes, The Wall Street Journal, and elsewhere. Her crab cake recipe earned CrabPlace.com recognition as “The Best” online crab cakes in 2006 from the Kiplinger’s Personal Finance Magazine’s Annual “Best of the Best” Edition.<a href=\"https:\/\/www.crabplace.com\/blog\/crabplaceblog.html\">(check out what Rebecca is blogging about)<\/a>Greg, Matt, and Rebecca have been crabbing since they could walk, and still have fun pulling them in and teaching their own kids. They also take great pleasure in serving up CrabPlace.com seafood products to family and friends and sharing their passion for Chesapeake Bay foods and the shore lifestyle.Our many satisfied customers know we pride ourselves on delivering fresh seafood from our dock to your door, and to your table. We are committed to ensuring that our service is as outstanding as our food. Your complete satisfaction is our goal, and we back that up with our CrabPlace.com Guarantee.Thank you for sharing this wonderful shore food and lifestyle with us!Greg CainCEO\/PresidentMatt CainCOORebecca Gareis BentVP<\/p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-heading-1",
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-text-1",
+        "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-buttons-1"
+      ],
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "divider": {
       "type": "section-divider",
       "settings": {
@@ -31,6 +79,7 @@
   },
   "order": [
     "main",
+    "5024fc2c-453d-45ec-a5fe-509dcc9738ac",
     "divider"
   ]
 }
