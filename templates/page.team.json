@@ -87,6 +87,78 @@
         "layout_mobile": "carousel"
       }
     },
+    "68b1a943-3ebe-4cce-bed2-f54343ea4b91": {
+      "type": "section-columns",
+      "blocks": {
+        "template--20638570545469__68b1a943-3ebe-4cce-bed2-f54343ea4b91-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Paul_Giordano.jpg",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "template--20638570545469__68b1a943-3ebe-4cce-bed2-f54343ea4b91-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Matt_Cain_Jr.jpg",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "template--20638570545469__68b1a943-3ebe-4cce-bed2-f54343ea4b91-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carman_Pikerton.jpg",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20638570545469__68b1a943-3ebe-4cce-bed2-f54343ea4b91-image-1",
+        "template--20638570545469__68b1a943-3ebe-4cce-bed2-f54343ea4b91-image-2",
+        "template--20638570545469__68b1a943-3ebe-4cce-bed2-f54343ea4b91-image-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "image_aspect_ratio": 0.7,
+        "mobile_image_aspect_ratio": 0.7,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "carousel"
+      }
+    },
     "647e2b62-66cf-45de-ba01-a8f1049c7aff": {
       "type": "section-multicolumn",
       "blocks": {
@@ -445,6 +517,7 @@
   "order": [
     "main",
     "team-0",
+    "68b1a943-3ebe-4cce-bed2-f54343ea4b91",
     "647e2b62-66cf-45de-ba01-a8f1049c7aff",
     "ac3c8761-9c99-45a5-abc1-11dbc0a8214b",
     "team-1",
