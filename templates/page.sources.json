@@ -37,7 +37,7 @@
             "link_text": "",
             "link": "",
             "button_type": "btn--primary",
-            "button_size": "",
+            "button_size": "btn--small",
             "button_style": "btn--solid",
             "show_arrow": false
           }
