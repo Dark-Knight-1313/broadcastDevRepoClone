@@ -290,7 +290,7 @@
         "overlay_color": "{{ shop.brand.colors.primary[0].background }}",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "047637cf-9c41-44ad-b565-dfe6c5ca25b6": {
@@ -390,7 +390,7 @@
         "overlay_color": "{{ shop.brand.colors.primary[0].background }}",
         "show_overlay_text": false,
         "bg_color": "",
-        "color": "#FFFFFF"
+        "color": "#ffffff"
       }
     },
     "5c1a7d7c-cb5e-4d36-9d2a-20928c702357": {

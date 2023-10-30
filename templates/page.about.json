@@ -22,6 +22,7 @@
       "blocks": {
         "template--20638570348861__5024fc2c-453d-45ec-a5fe-509dcc9738ac-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "About Us",
             "text_size": 8
