@@ -29,6 +29,14 @@
             "column_width": 33
           }
         },
+        "daadc3a3-7688-41fb-8092-de7968561d02": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "footer",
+            "title": "",
+            "column_width": 33
+          }
+        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -42,6 +50,7 @@
       "block_order": [
         "footer-0",
         "footer-1",
+        "daadc3a3-7688-41fb-8092-de7968561d02",
         "footer-2"
       ],
       "settings": {
