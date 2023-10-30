@@ -9,7 +9,7 @@
         "heading_size": 8,
         "show_content": true,
         "text_size": 4,
-        "align_text": "text-left",
+        "align_text": "text-center",
         "width": "wrapper",
         "bg_color": "",
         "color": "",
@@ -22,6 +22,7 @@
       "blocks": {
         "template--21357758087485__ffae5104-699d-4b6a-aefd-a7d3cdde05ad-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "In The News",
             "text_size": 8
