@@ -55,6 +55,7 @@
         "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-text-1",
         "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-button-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-three-quarters",
         "width": "wrapper--full-padded",
