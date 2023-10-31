@@ -78,49 +78,10 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "ffae5104-699d-4b6a-aefd-a7d3cdde05ad": {
-      "type": "section-double",
-      "blocks": {
-        "template--21357758087485__ffae5104-699d-4b6a-aefd-a7d3cdde05ad-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "In The News",
-            "text_size": 8
-          }
-        },
-        "template--21357758087485__ffae5104-699d-4b6a-aefd-a7d3cdde05ad-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>See why everyone is calling The Crab Place the best online crab company.<\/strong><\/p><p>CrabPlace.com has been featured in O, The Oprah magazine, USA Today, Kiplinger's Personal Finance magazine, and cooking segments on Fox 5 DC to name just a few. Check out our latest features below.<\/p><p>The Gazette, Colorado Springs, October 14, 2008 <a href=\"https:\/\/www.crabplace.com\/crabfest.asp\"><strong>Crabfest comes to Colorado Springs<\/strong><\/a><\/p><p>Coastal Living, October 2008 <a href=\"https:\/\/www.crabplace.com\/mid-atlantic-seafood.asp\"><strong>Mid-Atlantic Seafood<\/strong><\/a><\/p><p>O, The Oprah Magazine, October 2008 <a href=\"https:\/\/www.crabplace.com\/crabmeat-marinara-review.asp\"><strong>Crab Meat Marinara Sauce Gets Rave Reviews in Oprah Magazine<\/strong><\/a><\/p><p>SimpleFinds.com, October 9, 2008 <a href=\"https:\/\/www.crabplace.com\/holiday-crab-feast.asp\"><strong>How's this for a holiday feast?<\/strong><\/a><\/p><p>The Bachelor Guy, September 5, 2008 <a href=\"https:\/\/www.crabplace.com\/crack-open-some-crab.asp\"><strong>Crack Open Some Crab<\/strong><\/a><\/p><p>First Magazine, August 2008 <a href=\"https:\/\/www.crabplace.com\/seafood-feast.asp\"><strong>Enter to Win a Seafood Feast<\/strong><\/a><\/p><p>SupermarketGuru.com, July 23, 2008 <a href=\"https:\/\/www.crabplace.com\/salsa-with-crab.asp\"><strong>The Crab Place Tomato Corn Salsa with Maryland Crabmeat<\/strong><\/a><\/p><p>Rainy Days and Sundays, July 6, 2008 <a href=\"https:\/\/www.crabplace.com\/fresh-shellfish-tacos.asp\"><strong>Fresh, Fabulous Shellfish Tacos!<\/strong><\/a><\/p><p>Fox 5, July 1, 2008 <a href=\"https:\/\/www.crabplace.com\/maryland-crab-feast.asp\"><strong>What's Cooking? Maryland Crab Feast<\/strong><\/a><\/p><p>Seafood Business Magazine, March 2008 <a href=\"https:\/\/www.crabplace.com\/crab-dip.asp\"><strong>Dip into crab<\/strong><\/a><\/p><p>Eatingcleveland.com, February 23 2008 <a href=\"https:\/\/www.crabplace.com\/order-crab-online.asp\"><strong> <\/strong><\/a><\/p><p>Fox 5, January 29, 2008 <a href=\"https:\/\/www.crabplace.com\/super-bowl-crab.asp\"><strong>What's Cooking - Super Bowl Crab<\/strong><\/a><\/p><p>USA Today, October 2007 <a href=\"https:\/\/www.crabplace.com\/online-crab-orders.asp\"><strong>Online orders take pinch off crab sellers<\/strong><\/a><\/p><p>Gourmet Magazine, January 2007 <a href=\"https:\/\/www.crabplace.com\/steaming-blue-crabs.asp\"><strong>Steamed Blue Crabs with Black Ginger Dipping Sauce<\/strong><\/a><\/p><p>Kiplinger's Personal Finance Magazine, November 2006 <a href=\"https:\/\/www.crabplace.com\/best-crab-cakes.asp\"><strong>Best Crab Cakes<\/strong><\/a><\/p><p>The Wall Street Journal, September 29, 2006 <a href=\"https:\/\/www.crabplace.com\/crab-cakes-online.asp\"><strong>A Crab Cake for All Seasons<\/strong><\/a><\/p><p>Newsweek, Aug 5, 2001 <a href=\"https:\/\/www.crabplace.com\/crab-recipes.asp\"><strong>Crazy About Crabs? Take A Crack At These Recipes<\/strong><\/a><\/p><p><\/p><p> <\/p>",
-            "text_size": 4,
-            "text_style": "font-body"
-          }
-        }
-      },
-      "block_order": [
-        "template--21357758087485__ffae5104-699d-4b6a-aefd-a7d3cdde05ad-heading-1",
-        "template--21357758087485__ffae5104-699d-4b6a-aefd-a7d3cdde05ad-text-1"
-      ],
-      "settings": {
-        "layout": "",
-        "height": "screen-height-one-third",
-        "mobile_height": "screen-height-one-half--mobile",
-        "width": "wrapper",
-        "image_1": "shopify:\/\/shop_images\/image-20231006-150933.png",
-        "image_width": "one-half",
-        "text_alignment": "text-left",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "main",
-    "84dfe5e0-b82f-4be4-99ea-f1315ed8114e",
-    "ffae5104-699d-4b6a-aefd-a7d3cdde05ad"
+    "84dfe5e0-b82f-4be4-99ea-f1315ed8114e"
   ]
 }
