@@ -17,6 +17,52 @@
         "padding_bottom": 50
       }
     },
+    "ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Answers to Questions about Seafood Sustainability"
+          }
+        },
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-heading-1",
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-1",
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-2",
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-3"
+      ],
+      "settings": {
+        "width": "wrapper--narrow",
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "84dfe5e0-b82f-4be4-99ea-f1315ed8114e": {
       "type": "section-custom-content",
       "blocks": {
@@ -79,57 +125,11 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122": {
-      "type": "section-accordion-group",
-      "blocks": {
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Answers to Questions about Seafood Sustainability"
-          }
-        },
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        },
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-heading-1",
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-1",
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-2",
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-3"
-      ],
-      "settings": {
-        "width": "wrapper--narrow",
-        "bg_color": "",
-        "color": "",
-        "border_color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
     }
   },
   "order": [
     "main",
-    "84dfe5e0-b82f-4be4-99ea-f1315ed8114e",
-    "ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122"
+    "ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122",
+    "84dfe5e0-b82f-4be4-99ea-f1315ed8114e"
   ]
 }
