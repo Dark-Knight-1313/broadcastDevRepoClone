@@ -57,8 +57,8 @@
         "b712d140-9541-4478-8a8e-dcbd390f6671": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+            "title": "How can I tell where my seafood comes from?",
+            "content": "<p>Grocery stores have been required to label seafood under a \"Country of Origin\" (COOL for short) food labeling law passed by Congress in 2004. Fish markets and restaurants are exempt, so in those situations it is up to the consumer to make sure. For seafood products to be labeled with a U.S. country of origin, they must be derived exclusively from fish or shellfish hatched, raised, and processed in the United States.<br\/><br\/>Although we are not subject to COOL regulations, we are still very proud to let our customers know that all of Crab Place's products are 100% domestically harvested seafood.<\/p>"
           }
         }
       },
