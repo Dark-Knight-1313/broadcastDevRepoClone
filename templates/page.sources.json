@@ -29,8 +29,8 @@
         "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-1": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+            "title": "Are hard shell blue crabs a sustainable, eco-friendly seafood choice?",
+            "content": "<p>Yes! Blue crabs mature and reproduce VERY quickly. The domestic United States Blue Crab fishery is very sustainable. Also, Blue Crabs are caught in traps that are eco-friendly, in that this method results in very little bycatch and damage to natural ocean and bay habitats.<\/p>"
           }
         },
         "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-2": {
@@ -46,13 +46,29 @@
             "title": "Frequently asked question",
             "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
           }
+        },
+        "7850c981-9f35-4b77-a7fd-e40264032a95": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "b712d140-9541-4478-8a8e-dcbd390f6671": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-heading-1",
         "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-1",
         "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-2",
-        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-3"
+        "template--21357758087485__ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122-question-3",
+        "7850c981-9f35-4b77-a7fd-e40264032a95",
+        "b712d140-9541-4478-8a8e-dcbd390f6671"
       ],
       "settings": {
         "width": "wrapper--narrow",
