@@ -17,6 +17,59 @@
         "padding_bottom": 50
       }
     },
+    "18dd0a7e-65cc-433d-8de9-774fdf05d6ab": {
+      "type": "section-hero",
+      "blocks": {
+        "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 11
+          }
+        },
+        "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-heading-1",
+        "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-text-1",
+        "template--21357758087485__18dd0a7e-65cc-433d-8de9-774fdf05d6ab-button-1"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full-padded",
+        "image_1": "shopify:\/\/shop_images\/image-20231006-150933.png",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#FFFFFF"
+      }
+    },
     "ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122": {
       "type": "section-accordion-group",
       "blocks": {
@@ -145,6 +198,7 @@
   },
   "order": [
     "main",
+    "18dd0a7e-65cc-433d-8de9-774fdf05d6ab",
     "ea3aeb11-4af0-43f7-8eaa-b3c6f1be7122",
     "84dfe5e0-b82f-4be4-99ea-f1315ed8114e"
   ]
